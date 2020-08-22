@@ -153,6 +153,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 4806311fc05a26e4196fc3eab13ac35e, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
+  defenderPrefab: {fileID: 398941368683092095, guid: 14dac96241bb7f140ad6d999684c714a, type: 3}
 --- !u!1 &5011266397239188692
 GameObject:
   m_ObjectHideFlags: 0
@@ -373,3 +374,4 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 4806311fc05a26e4196fc3eab13ac35e, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
+  defenderPrefab: {fileID: 5543527312976614086, guid: 5e69828a909d24d428f7c6d89c253aa3, type: 3}
