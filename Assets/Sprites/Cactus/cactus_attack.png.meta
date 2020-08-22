@@ -1,0 +1,2167 @@
+fileFormatVersion: 2
+guid: 5d08e2f104773b54b818bcb7a282562f
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 5840616865793923908
+    second: cactus_attack_0
+  - first:
+      213: 500966543234671448
+    second: cactus_attack_1
+  - first:
+      213: -604663476952670024
+    second: cactus_attack_2
+  - first:
+      213: 3079698589764542626
+    second: cactus_attack_3
+  - first:
+      213: 180024873144974763
+    second: cactus_attack_4
+  - first:
+      213: -5575351631201836432
+    second: cactus_attack_5
+  - first:
+      213: 7709301354457647267
+    second: cactus_attack_6
+  - first:
+      213: 6645910165889410831
+    second: cactus_attack_7
+  - first:
+      213: -4147449922568098254
+    second: cactus_attack_8
+  - first:
+      213: -1626797188484816392
+    second: cactus_attack_9
+  - first:
+      213: 5321396953582933716
+    second: cactus_attack_10
+  - first:
+      213: -6211878038130029247
+    second: cactus_attack_11
+  - first:
+      213: -5870310715364849486
+    second: cactus_attack_12
+  - first:
+      213: 3177385116192499261
+    second: cactus_attack_13
+  - first:
+      213: 829345820714501652
+    second: cactus_attack_14
+  - first:
+      213: -8576338895903774966
+    second: cactus_attack_15
+  - first:
+      213: -8392802526259442589
+    second: cactus_attack_16
+  - first:
+      213: 7560107921800921831
+    second: cactus_attack_17
+  - first:
+      213: 6232862737735866207
+    second: cactus_attack_18
+  - first:
+      213: -7214893853571905967
+    second: cactus_attack_19
+  - first:
+      213: -4018653422765889069
+    second: cactus_attack_20
+  - first:
+      213: 8567512820941493574
+    second: cactus_attack_21
+  - first:
+      213: 4715395829298764316
+    second: cactus_attack_22
+  - first:
+      213: 1046080985683440167
+    second: cactus_attack_23
+  - first:
+      213: 4241789171495819970
+    second: cactus_attack_24
+  - first:
+      213: -7138255212430489930
+    second: cactus_attack_25
+  - first:
+      213: -827269104254802846
+    second: cactus_attack_26
+  - first:
+      213: -3728659846884077271
+    second: cactus_attack_27
+  - first:
+      213: -6660710775543488329
+    second: cactus_attack_28
+  - first:
+      213: 438449247554590646
+    second: cactus_attack_29
+  - first:
+      213: -6730639160988896773
+    second: cactus_attack_30
+  - first:
+      213: -8144109126216542062
+    second: cactus_attack_31
+  - first:
+      213: 8482555784479202101
+    second: cactus_attack_32
+  - first:
+      213: 5271067185622150850
+    second: cactus_attack_33
+  - first:
+      213: -2783919113614030784
+    second: cactus_attack_34
+  - first:
+      213: -8198545589870599023
+    second: cactus_attack_35
+  - first:
+      213: -8140613173395258011
+    second: cactus_attack_36
+  - first:
+      213: -8731450094360461070
+    second: cactus_attack_37
+  - first:
+      213: 3869178707428202462
+    second: cactus_attack_38
+  - first:
+      213: -4528541529427425934
+    second: cactus_attack_39
+  - first:
+      213: -5630617834739218393
+    second: cactus_attack_40
+  - first:
+      213: -1650347835635623332
+    second: cactus_attack_41
+  - first:
+      213: 3188679065000251453
+    second: cactus_attack_42
+  - first:
+      213: 3611679905874212877
+    second: cactus_attack_43
+  - first:
+      213: 1211423697727308601
+    second: cactus_attack_44
+  - first:
+      213: 7232826969018653652
+    second: cactus_attack_45
+  - first:
+      213: -2112444709739398228
+    second: cactus_attack_46
+  - first:
+      213: 2002970715347553605
+    second: cactus_attack_47
+  - first:
+      213: 2233895035346855640
+    second: cactus_attack_48
+  - first:
+      213: -7645401192051279386
+    second: cactus_attack_49
+  - first:
+      213: 6459248403616164595
+    second: cactus_attack_50
+  - first:
+      213: -1681864179534593242
+    second: cactus_attack_51
+  - first:
+      213: 337205409039440699
+    second: cactus_attack_52
+  - first:
+      213: -61720027216181886
+    second: cactus_attack_53
+  - first:
+      213: -3882539706999242644
+    second: cactus_attack_54
+  - first:
+      213: 193603328574865827
+    second: cactus_attack_55
+  - first:
+      213: -6959246948523699609
+    second: cactus_attack_56
+  - first:
+      213: 4847496749237162421
+    second: cactus_attack_57
+  - first:
+      213: 4262036966667955948
+    second: cactus_attack_58
+  - first:
+      213: 3438142449142856769
+    second: cactus_attack_59
+  - first:
+      213: -5022708452271046766
+    second: cactus_attack_60
+  - first:
+      213: 615830758515608184
+    second: cactus_attack_61
+  - first:
+      213: -7030069634385212955
+    second: cactus_attack_62
+  - first:
+      213: 5322882230006449831
+    second: cactus_attack_63
+  - first:
+      213: -7045425685053133978
+    second: cactus_attack_64
+  - first:
+      213: 2351297346218061044
+    second: cactus_attack_65
+  - first:
+      213: -8153448407675067064
+    second: cactus_attack_66
+  - first:
+      213: -5387601927396655380
+    second: cactus_attack_67
+  - first:
+      213: -8658329893246164430
+    second: cactus_attack_68
+  - first:
+      213: -5065022883264241163
+    second: cactus_attack_69
+  - first:
+      213: -4985388192172819692
+    second: cactus_attack_70
+  - first:
+      213: -8065268832539716840
+    second: cactus_attack_71
+  - first:
+      213: -4557636580946117285
+    second: cactus_attack_72
+  - first:
+      213: -64571754412581943
+    second: cactus_attack_73
+  - first:
+      213: 3099954631176065363
+    second: cactus_attack_74
+  - first:
+      213: 8934023114725302319
+    second: cactus_attack_75
+  - first:
+      213: 5424161511639968214
+    second: cactus_attack_76
+  - first:
+      213: -3375079996139442787
+    second: cactus_attack_77
+  - first:
+      213: 2809977438032108833
+    second: cactus_attack_78
+  - first:
+      213: -5910387089258222215
+    second: cactus_attack_79
+  - first:
+      213: 7670416282912775368
+    second: cactus_attack_80
+  - first:
+      213: 6024289861465614306
+    second: cactus_attack_81
+  - first:
+      213: 7453011075957884822
+    second: cactus_attack_82
+  - first:
+      213: -7974308834026758094
+    second: cactus_attack_83
+  - first:
+      213: -6724057536982519582
+    second: cactus_attack_84
+  - first:
+      213: -131919169651931437
+    second: cactus_attack_85
+  - first:
+      213: -1885354950903169134
+    second: cactus_attack_86
+  - first:
+      213: 639269004888298972
+    second: cactus_attack_87
+  - first:
+      213: -2668690028067535838
+    second: cactus_attack_88
+  - first:
+      213: -1974622106619801031
+    second: cactus_attack_89
+  - first:
+      213: -6369352009723012454
+    second: cactus_attack_90
+  - first:
+      213: 2007697223716272126
+    second: cactus_attack_0
+  - first:
+      213: -9151848452600375606
+    second: cactus_attack_1
+  - first:
+      213: -1279401093317549044
+    second: cactus_attack_2
+  - first:
+      213: 1323336358544731075
+    second: cactus_attack_3
+  - first:
+      213: -3832940261472935813
+    second: cactus_attack_4
+  - first:
+      213: -6735002447907414560
+    second: cactus_attack_5
+  - first:
+      213: 5069040963042639322
+    second: cactus_attack_6
+  - first:
+      213: 878593219230518370
+    second: cactus_attack_7
+  - first:
+      213: 1294070213791054814
+    second: cactus_attack_8
+  - first:
+      213: -7209521995520332361
+    second: cactus_attack_9
+  - first:
+      213: -379114636772127696
+    second: cactus_attack_10
+  - first:
+      213: -3336098707308118397
+    second: cactus_attack_11
+  - first:
+      213: 4108345982470669303
+    second: cactus_attack_12
+  - first:
+      213: 568699464990221032
+    second: cactus_attack_13
+  - first:
+      213: -8134054529652516196
+    second: cactus_attack_14
+  - first:
+      213: 1476943429970612651
+    second: cactus_attack_15
+  - first:
+      213: -895158165126236483
+    second: cactus_attack_16
+  - first:
+      213: 1431282703680801840
+    second: cactus_attack_17
+  - first:
+      213: 1174044927823639248
+    second: cactus_attack_18
+  - first:
+      213: -7619394169697071131
+    second: cactus_attack_19
+  - first:
+      213: -3009091836065806010
+    second: cactus_attack_20
+  - first:
+      213: -7838396188305763422
+    second: cactus_attack_21
+  - first:
+      213: -8990478844737532475
+    second: cactus_attack_22
+  - first:
+      213: 6405624534816014402
+    second: cactus_attack_23
+  - first:
+      213: -5808774961871881933
+    second: cactus_attack_24
+  - first:
+      213: -3843039852592552390
+    second: cactus_attack_25
+  - first:
+      213: 2035775562178382508
+    second: cactus_attack_26
+  - first:
+      213: 2104532331941509344
+    second: cactus_attack_27
+  - first:
+      213: -7496192856810506129
+    second: cactus_attack_28
+  - first:
+      213: -7236629673708249250
+    second: cactus_attack_29
+  - first:
+      213: -1785223586052038811
+    second: cactus_attack_30
+  - first:
+      213: 2107699552956312088
+    second: cactus_attack_31
+  - first:
+      213: 2338042349478899601
+    second: cactus_attack_32
+  - first:
+      213: -4017492305700359915
+    second: cactus_attack_33
+  - first:
+      213: 6822409632960763081
+    second: cactus_attack_34
+  - first:
+      213: -7533483226099873596
+    second: cactus_attack_35
+  - first:
+      213: 3344404323044803685
+    second: cactus_attack_36
+  - first:
+      213: -1700888536701463360
+    second: cactus_attack_37
+  - first:
+      213: 1934151002683002601
+    second: cactus_attack_38
+  - first:
+      213: 3920288836911650057
+    second: cactus_attack_39
+  - first:
+      213: 9051691146194192615
+    second: cactus_attack_40
+  - first:
+      213: -4836249481477864991
+    second: cactus_attack_41
+  - first:
+      213: -8529234410358883492
+    second: cactus_attack_42
+  - first:
+      213: -3280782809437268202
+    second: cactus_attack_43
+  - first:
+      213: 2486839090933016381
+    second: cactus_attack_44
+  - first:
+      213: 7284196664723011211
+    second: cactus_attack_45
+  - first:
+      213: 4262673207931141035
+    second: cactus_attack_46
+  - first:
+      213: -4234463935644068856
+    second: cactus_attack_47
+  - first:
+      213: 4235057209088442409
+    second: cactus_attack_48
+  - first:
+      213: -5234352273187012274
+    second: cactus_attack_49
+  - first:
+      213: -321133559317789132
+    second: cactus_attack_50
+  - first:
+      213: 6251821991369290031
+    second: cactus_attack_51
+  - first:
+      213: -4980484417745102763
+    second: cactus_attack_52
+  - first:
+      213: 2269650870141263729
+    second: cactus_attack_53
+  - first:
+      213: -8142731029114331831
+    second: cactus_attack_54
+  - first:
+      213: -8441752390180331701
+    second: cactus_attack_55
+  - first:
+      213: 3509417955914588575
+    second: cactus_attack_56
+  - first:
+      213: 6461236729504257437
+    second: cactus_attack_57
+  - first:
+      213: -4066819445255958275
+    second: cactus_attack_58
+  - first:
+      213: -5274696216845870813
+    second: cactus_attack_59
+  - first:
+      213: -7883056493785413755
+    second: cactus_attack_60
+  - first:
+      213: 924871875513601627
+    second: cactus_attack_61
+  - first:
+      213: -5664422494518472521
+    second: cactus_attack_62
+  - first:
+      213: -5975034649915704057
+    second: cactus_attack_63
+  - first:
+      213: -5169088422258393543
+    second: cactus_attack_64
+  - first:
+      213: 8649376350020197202
+    second: cactus_attack_65
+  - first:
+      213: -333455849942009778
+    second: cactus_attack_66
+  - first:
+      213: -4054634141865026890
+    second: cactus_attack_67
+  - first:
+      213: -7957283398636914551
+    second: cactus_attack_68
+  - first:
+      213: 766634499977915691
+    second: cactus_attack_69
+  - first:
+      213: -902316913686111733
+    second: cactus_attack_70
+  - first:
+      213: 3941802308813205335
+    second: cactus_attack_71
+  - first:
+      213: -4990051422714813796
+    second: cactus_attack_72
+  - first:
+      213: 1858426835890868279
+    second: cactus_attack_73
+  externalObjects: {}
+  serializedVersion: 11
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: -1
+    aniso: -1
+    mipBias: -100
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: cactus_attack_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1512
+        width: 157
+        height: 126
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ef7752cdcf5ccdb10800000000000000
+      internalID: 2007697223716272126
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cactus_attack_1
+      rect:
+        serializedVersion: 2
+        x: 157
+        y: 1512
+        width: 157
+        height: 126
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ac6db88225a1ef080800000000000000
+      internalID: -9151848452600375606
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cactus_attack_2
+      rect:
+        serializedVersion: 2
+        x: 314
+        y: 1512
+        width: 157
+        height: 126
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c04af83fb77ae3ee0800000000000000
+      internalID: -1279401093317549044
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cactus_attack_3
+      rect:
+        serializedVersion: 2
+        x: 471
+        y: 1512
+        width: 157
+        height: 126
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3cbea61286f6d5210800000000000000
+      internalID: 1323336358544731075
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cactus_attack_4
+      rect:
+        serializedVersion: 2
+        x: 628
+        y: 1512
+        width: 157
+        height: 126
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b70ec95d329aecac0800000000000000
+      internalID: -3832940261472935813
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cactus_attack_5
+      rect:
+        serializedVersion: 2
+        x: 785
+        y: 1512
+        width: 157
+        height: 126
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0ed971b05f67882a0800000000000000
+      internalID: -6735002447907414560
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cactus_attack_6
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1386
+        width: 157
+        height: 126
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: add7f0226e9d85640800000000000000
+      internalID: 5069040963042639322
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cactus_attack_7
+      rect:
+        serializedVersion: 2
+        x: 157
+        y: 1386
+        width: 157
+        height: 126
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 26c4d4eb0e3613c00800000000000000
+      internalID: 878593219230518370
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cactus_attack_8
+      rect:
+        serializedVersion: 2
+        x: 314
+        y: 1386
+        width: 157
+        height: 126
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: edbfd6fc00675f110800000000000000
+      internalID: 1294070213791054814
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cactus_attack_9
+      rect:
+        serializedVersion: 2
+        x: 471
+        y: 1386
+        width: 157
+        height: 126
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7bd25a851f1a2fb90800000000000000
+      internalID: -7209521995520332361
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cactus_attack_10
+      rect:
+        serializedVersion: 2
+        x: 628
+        y: 1386
+        width: 157
+        height: 126
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 03ccb0a1f3d1dbaf0800000000000000
+      internalID: -379114636772127696
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cactus_attack_11
+      rect:
+        serializedVersion: 2
+        x: 785
+        y: 1386
+        width: 157
+        height: 126
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 38e724fa6ebc3b1d0800000000000000
+      internalID: -3336098707308118397
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cactus_attack_12
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1260
+        width: 157
+        height: 126
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7f3419377e6c30930800000000000000
+      internalID: 4108345982470669303
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cactus_attack_13
+      rect:
+        serializedVersion: 2
+        x: 157
+        y: 1260
+        width: 157
+        height: 126
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8e262ba762d64e700800000000000000
+      internalID: 568699464990221032
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cactus_attack_14
+      rect:
+        serializedVersion: 2
+        x: 314
+        y: 1260
+        width: 157
+        height: 126
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c9a976850880e1f80800000000000000
+      internalID: -8134054529652516196
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cactus_attack_15
+      rect:
+        serializedVersion: 2
+        x: 471
+        y: 1260
+        width: 157
+        height: 126
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ba1deb079382f7410800000000000000
+      internalID: 1476943429970612651
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cactus_attack_16
+      rect:
+        serializedVersion: 2
+        x: 628
+        y: 1260
+        width: 157
+        height: 126
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: db63cdd3462c393f0800000000000000
+      internalID: -895158165126236483
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cactus_attack_17
+      rect:
+        serializedVersion: 2
+        x: 785
+        y: 1260
+        width: 157
+        height: 126
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 03c0e062900fcd310800000000000000
+      internalID: 1431282703680801840
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cactus_attack_18
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1134
+        width: 157
+        height: 126
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0d2f64934ab0b4010800000000000000
+      internalID: 1174044927823639248
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cactus_attack_19
+      rect:
+        serializedVersion: 2
+        x: 157
+        y: 1134
+        width: 157
+        height: 126
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5ef06873f59724690800000000000000
+      internalID: -7619394169697071131
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cactus_attack_20
+      rect:
+        serializedVersion: 2
+        x: 314
+        y: 1134
+        width: 157
+        height: 126
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 64905cefaee8d36d0800000000000000
+      internalID: -3009091836065806010
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cactus_attack_21
+      rect:
+        serializedVersion: 2
+        x: 471
+        y: 1134
+        width: 157
+        height: 126
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2a35243423c683390800000000000000
+      internalID: -7838396188305763422
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cactus_attack_22
+      rect:
+        serializedVersion: 2
+        x: 628
+        y: 1134
+        width: 157
+        height: 126
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5cd41c2df176b3380800000000000000
+      internalID: -8990478844737532475
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cactus_attack_23
+      rect:
+        serializedVersion: 2
+        x: 785
+        y: 1134
+        width: 157
+        height: 126
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2404c32739955e850800000000000000
+      internalID: 6405624534816014402
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cactus_attack_24
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1008
+        width: 157
+        height: 126
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3397179c2f5136fa0800000000000000
+      internalID: -5808774961871881933
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cactus_attack_25
+      rect:
+        serializedVersion: 2
+        x: 157
+        y: 1008
+        width: 157
+        height: 126
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a362d888d97caaac0800000000000000
+      internalID: -3843039852592552390
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cactus_attack_26
+      rect:
+        serializedVersion: 2
+        x: 314
+        y: 1008
+        width: 157
+        height: 126
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: caa401a7617804c10800000000000000
+      internalID: 2035775562178382508
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cactus_attack_27
+      rect:
+        serializedVersion: 2
+        x: 471
+        y: 1008
+        width: 157
+        height: 126
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0e8b2bf610dc43d10800000000000000
+      internalID: 2104532331941509344
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cactus_attack_28
+      rect:
+        serializedVersion: 2
+        x: 628
+        y: 1008
+        width: 157
+        height: 126
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f683df1305c28f790800000000000000
+      internalID: -7496192856810506129
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cactus_attack_29
+      rect:
+        serializedVersion: 2
+        x: 785
+        y: 1008
+        width: 157
+        height: 126
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e5f919f27a3529b90800000000000000
+      internalID: -7236629673708249250
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cactus_attack_30
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 882
+        width: 157
+        height: 126
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 56f18b46b9c9937e0800000000000000
+      internalID: -1785223586052038811
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cactus_attack_31
+      rect:
+        serializedVersion: 2
+        x: 157
+        y: 882
+        width: 157
+        height: 126
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 81ae53b839d004d10800000000000000
+      internalID: 2107699552956312088
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cactus_attack_32
+      rect:
+        serializedVersion: 2
+        x: 314
+        y: 882
+        width: 157
+        height: 126
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 19f628e1125627020800000000000000
+      internalID: 2338042349478899601
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cactus_attack_33
+      rect:
+        serializedVersion: 2
+        x: 471
+        y: 882
+        width: 157
+        height: 126
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5117dd698000f38c0800000000000000
+      internalID: -4017492305700359915
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cactus_attack_34
+      rect:
+        serializedVersion: 2
+        x: 628
+        y: 882
+        width: 157
+        height: 126
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9c454dc1a611eae50800000000000000
+      internalID: 6822409632960763081
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cactus_attack_35
+      rect:
+        serializedVersion: 2
+        x: 785
+        y: 882
+        width: 157
+        height: 126
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4c804f28be0b37790800000000000000
+      internalID: -7533483226099873596
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cactus_attack_36
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 756
+        width: 157
+        height: 126
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 564cd5c2306b96e20800000000000000
+      internalID: 3344404323044803685
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cactus_attack_37
+      rect:
+        serializedVersion: 2
+        x: 157
+        y: 756
+        width: 157
+        height: 126
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0c4106733ea3568e0800000000000000
+      internalID: -1700888536701463360
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cactus_attack_38
+      rect:
+        serializedVersion: 2
+        x: 314
+        y: 756
+        width: 157
+        height: 126
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9eec2e0e61c77da10800000000000000
+      internalID: 1934151002683002601
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cactus_attack_39
+      rect:
+        serializedVersion: 2
+        x: 471
+        y: 756
+        width: 157
+        height: 126
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9055c053de9a76630800000000000000
+      internalID: 3920288836911650057
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cactus_attack_40
+      rect:
+        serializedVersion: 2
+        x: 628
+        y: 756
+        width: 157
+        height: 126
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7e80479b3211e9d70800000000000000
+      internalID: 9051691146194192615
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cactus_attack_41
+      rect:
+        serializedVersion: 2
+        x: 785
+        y: 756
+        width: 157
+        height: 126
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1e1485b58b032ecb0800000000000000
+      internalID: -4836249481477864991
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cactus_attack_42
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 630
+        width: 157
+        height: 126
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c5b358c5e7212a980800000000000000
+      internalID: -8529234410358883492
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cactus_attack_43
+      rect:
+        serializedVersion: 2
+        x: 157
+        y: 630
+        width: 157
+        height: 126
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 617984aca615872d0800000000000000
+      internalID: -3280782809437268202
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cactus_attack_44
+      rect:
+        serializedVersion: 2
+        x: 314
+        y: 630
+        width: 157
+        height: 126
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d372e943af6038220800000000000000
+      internalID: 2486839090933016381
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cactus_attack_45
+      rect:
+        serializedVersion: 2
+        x: 471
+        y: 630
+        width: 157
+        height: 126
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b8676e2f54aa61560800000000000000
+      internalID: 7284196664723011211
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cactus_attack_46
+      rect:
+        serializedVersion: 2
+        x: 628
+        y: 630
+        width: 157
+        height: 126
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bab7f40b2be082b30800000000000000
+      internalID: 4262673207931141035
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cactus_attack_47
+      rect:
+        serializedVersion: 2
+        x: 785
+        y: 630
+        width: 157
+        height: 126
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8049bb55c792c35c0800000000000000
+      internalID: -4234463935644068856
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cactus_attack_48
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 504
+        width: 157
+        height: 126
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9208c27e712f5ca30800000000000000
+      internalID: 4235057209088442409
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cactus_attack_49
+      rect:
+        serializedVersion: 2
+        x: 157
+        y: 504
+        width: 157
+        height: 126
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e410e6f1758db57b0800000000000000
+      internalID: -5234352273187012274
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cactus_attack_50
+      rect:
+        serializedVersion: 2
+        x: 314
+        y: 504
+        width: 157
+        height: 126
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 436086faaba1b8bf0800000000000000
+      internalID: -321133559317789132
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cactus_attack_51
+      rect:
+        serializedVersion: 2
+        x: 471
+        y: 504
+        width: 157
+        height: 126
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f21ba824afee2c650800000000000000
+      internalID: 6251821991369290031
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cactus_attack_52
+      rect:
+        serializedVersion: 2
+        x: 628
+        y: 504
+        width: 157
+        height: 126
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5585fee4fc3c1eab0800000000000000
+      internalID: -4980484417745102763
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cactus_attack_53
+      rect:
+        serializedVersion: 2
+        x: 785
+        y: 504
+        width: 157
+        height: 126
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 17f1de6f07b6f7f10800000000000000
+      internalID: 2269650870141263729
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cactus_attack_54
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 378
+        width: 157
+        height: 126
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 94dd61465453ffe80800000000000000
+      internalID: -8142731029114331831
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cactus_attack_55
+      rect:
+        serializedVersion: 2
+        x: 157
+        y: 378
+        width: 157
+        height: 126
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b4f1f7d6deed8da80800000000000000
+      internalID: -8441752390180331701
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cactus_attack_56
+      rect:
+        serializedVersion: 2
+        x: 314
+        y: 378
+        width: 157
+        height: 126
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f91aaa68905f3b030800000000000000
+      internalID: 3509417955914588575
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cactus_attack_57
+      rect:
+        serializedVersion: 2
+        x: 471
+        y: 378
+        width: 157
+        height: 126
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d95dec7829ceaa950800000000000000
+      internalID: 6461236729504257437
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cactus_attack_58
+      rect:
+        serializedVersion: 2
+        x: 628
+        y: 378
+        width: 157
+        height: 126
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: df01edfe241cf87c0800000000000000
+      internalID: -4066819445255958275
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cactus_attack_59
+      rect:
+        serializedVersion: 2
+        x: 785
+        y: 378
+        width: 157
+        height: 126
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3291ec0ccb38cc6b0800000000000000
+      internalID: -5274696216845870813
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cactus_attack_60
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 252
+        width: 157
+        height: 126
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 587859792e1c99290800000000000000
+      internalID: -7883056493785413755
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cactus_attack_61
+      rect:
+        serializedVersion: 2
+        x: 157
+        y: 252
+        width: 157
+        height: 126
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b5eccb2121ec5dc00800000000000000
+      internalID: 924871875513601627
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cactus_attack_62
+      rect:
+        serializedVersion: 2
+        x: 314
+        y: 252
+        width: 157
+        height: 126
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7b09e7ca0cde361b0800000000000000
+      internalID: -5664422494518472521
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cactus_attack_63
+      rect:
+        serializedVersion: 2
+        x: 471
+        y: 252
+        width: 157
+        height: 126
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 70dbf1b94a9641da0800000000000000
+      internalID: -5975034649915704057
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cactus_attack_64
+      rect:
+        serializedVersion: 2
+        x: 628
+        y: 252
+        width: 157
+        height: 126
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 93e34ba8775b348b0800000000000000
+      internalID: -5169088422258393543
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cactus_attack_65
+      rect:
+        serializedVersion: 2
+        x: 785
+        y: 252
+        width: 157
+        height: 126
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 25b5e97c6f1c80870800000000000000
+      internalID: 8649376350020197202
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cactus_attack_66
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 126
+        width: 157
+        height: 126
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e483ee3dba35f5bf0800000000000000
+      internalID: -333455849942009778
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cactus_attack_67
+      rect:
+        serializedVersion: 2
+        x: 157
+        y: 126
+        width: 157
+        height: 126
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6bad6f7fabb0bb7c0800000000000000
+      internalID: -4054634141865026890
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cactus_attack_68
+      rect:
+        serializedVersion: 2
+        x: 314
+        y: 126
+        width: 157
+        height: 126
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 988322f88ec029190800000000000000
+      internalID: -7957283398636914551
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cactus_attack_69
+      rect:
+        serializedVersion: 2
+        x: 471
+        y: 126
+        width: 157
+        height: 126
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b2d2eb31402a3aa00800000000000000
+      internalID: 766634499977915691
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cactus_attack_70
+      rect:
+        serializedVersion: 2
+        x: 628
+        y: 126
+        width: 157
+        height: 126
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b0a99e43c835a73f0800000000000000
+      internalID: -902316913686111733
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cactus_attack_71
+      rect:
+        serializedVersion: 2
+        x: 785
+        y: 126
+        width: 157
+        height: 126
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 75f20a7b05814b630800000000000000
+      internalID: 3941802308813205335
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cactus_attack_72
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 157
+        height: 126
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c92a6226ba6cfbab0800000000000000
+      internalID: -4990051422714813796
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cactus_attack_73
+      rect:
+        serializedVersion: 2
+        x: 157
+        y: 0
+        width: 157
+        height: 126
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 73014526c557ac910800000000000000
+      internalID: 1858426835890868279
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

@@ -1,0 +1,1369 @@
+fileFormatVersion: 2
+guid: caedfc1a5ed3ff341979a362675ff032
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 3873770287496129440
+    second: cactus_idle_0
+  - first:
+      213: -4071706384795722737
+    second: cactus_idle_1
+  - first:
+      213: 184586189278332873
+    second: cactus_idle_2
+  - first:
+      213: 676308953758344787
+    second: cactus_idle_3
+  - first:
+      213: -6865448020488487457
+    second: cactus_idle_4
+  - first:
+      213: -3159527774779708121
+    second: cactus_idle_5
+  - first:
+      213: -5776789781410304391
+    second: cactus_idle_6
+  - first:
+      213: -3931177538570416424
+    second: cactus_idle_7
+  - first:
+      213: 499653002754417453
+    second: cactus_idle_8
+  - first:
+      213: 4112017577291930089
+    second: cactus_idle_9
+  - first:
+      213: -4347691050450544059
+    second: cactus_idle_10
+  - first:
+      213: 7838319162956865520
+    second: cactus_idle_11
+  - first:
+      213: 4911614583709331113
+    second: cactus_idle_12
+  - first:
+      213: 514446296733729346
+    second: cactus_idle_13
+  - first:
+      213: 7472616935578941192
+    second: cactus_idle_14
+  - first:
+      213: 7716039603397433538
+    second: cactus_idle_15
+  - first:
+      213: -9101256136574365235
+    second: cactus_idle_16
+  - first:
+      213: -7092251876564387541
+    second: cactus_idle_17
+  - first:
+      213: -8155287635519480681
+    second: cactus_idle_18
+  - first:
+      213: -1141662348494619229
+    second: cactus_idle_19
+  - first:
+      213: 5841029512182950495
+    second: cactus_idle_20
+  - first:
+      213: -5351237083241844624
+    second: cactus_idle_21
+  - first:
+      213: 285357922255255395
+    second: cactus_idle_22
+  - first:
+      213: -1247762909009709184
+    second: cactus_idle_23
+  - first:
+      213: 2381808352940060134
+    second: cactus_idle_24
+  - first:
+      213: 8050032071352050827
+    second: cactus_idle_25
+  - first:
+      213: -2306733898420635763
+    second: cactus_idle_26
+  - first:
+      213: 1710863779700125417
+    second: cactus_idle_27
+  - first:
+      213: -7981176939987108488
+    second: cactus_idle_28
+  - first:
+      213: -4683413499939149119
+    second: cactus_idle_29
+  - first:
+      213: -1832050411504687687
+    second: cactus_idle_30
+  - first:
+      213: -2818393474790858457
+    second: cactus_idle_31
+  - first:
+      213: -2978353793252342192
+    second: cactus_idle_32
+  - first:
+      213: 6256813603072761626
+    second: cactus_idle_33
+  - first:
+      213: -910973681109855068
+    second: cactus_idle_34
+  - first:
+      213: -3090292114884577050
+    second: cactus_idle_35
+  - first:
+      213: -8181382706052037277
+    second: cactus_idle_36
+  - first:
+      213: -6073234677586192507
+    second: cactus_idle_37
+  - first:
+      213: 8982305137777825486
+    second: cactus_idle_38
+  - first:
+      213: 2460814206990273972
+    second: cactus_idle_39
+  - first:
+      213: -1997821858640503308
+    second: cactus_idle_40
+  - first:
+      213: 6930061394748083652
+    second: cactus_idle_41
+  - first:
+      213: 6907040836413440458
+    second: cactus_idle_42
+  - first:
+      213: 4955993183356465370
+    second: cactus_idle_43
+  - first:
+      213: 7158949540725986100
+    second: cactus_idle_44
+  - first:
+      213: 5314903693547030747
+    second: cactus_idle_45
+  - first:
+      213: -4484917724009487043
+    second: cactus_idle_46
+  - first:
+      213: -7114823571163126802
+    second: cactus_idle_47
+  - first:
+      213: -4436389807022091746
+    second: cactus_idle_48
+  - first:
+      213: 5984565214213347851
+    second: cactus_idle_49
+  - first:
+      213: 4026561555882981045
+    second: cactus_idle_50
+  - first:
+      213: -5843431377091853252
+    second: cactus_idle_51
+  - first:
+      213: 8907387871203370656
+    second: cactus_idle_52
+  - first:
+      213: 6135448934107711472
+    second: cactus_idle_53
+  - first:
+      213: -3476199827509201322
+    second: cactus_idle_54
+  - first:
+      213: -6801941315719478069
+    second: cactus_idle_55
+  - first:
+      213: 1676412790814975214
+    second: cactus_idle_56
+  - first:
+      213: 8055523940572488191
+    second: cactus_idle_57
+  - first:
+      213: 2320779950046097060
+    second: cactus_idle_58
+  - first:
+      213: -7368487104302932260
+    second: cactus_idle_59
+  - first:
+      213: -6010643482871549138
+    second: cactus_idle_60
+  - first:
+      213: -8861990448189391766
+    second: cactus_idle_61
+  - first:
+      213: 7432400921480703716
+    second: cactus_idle_62
+  - first:
+      213: 2152996336244291042
+    second: cactus_idle_63
+  - first:
+      213: 1200579693091599722
+    second: cactus_idle_64
+  - first:
+      213: 6894325247098796021
+    second: cactus_idle_0
+  - first:
+      213: -5339601855491230032
+    second: cactus_idle_1
+  - first:
+      213: 7254012445657227181
+    second: cactus_idle_2
+  - first:
+      213: 4358093702517010109
+    second: cactus_idle_3
+  - first:
+      213: 8679192162222594691
+    second: cactus_idle_4
+  - first:
+      213: -138605694994389430
+    second: cactus_idle_5
+  - first:
+      213: -5214798786696136316
+    second: cactus_idle_6
+  - first:
+      213: 5795397481739793187
+    second: cactus_idle_7
+  - first:
+      213: -6867814652294091542
+    second: cactus_idle_8
+  - first:
+      213: -3383452724186288593
+    second: cactus_idle_9
+  - first:
+      213: 7609351572504933118
+    second: cactus_idle_10
+  - first:
+      213: -6016073527110821473
+    second: cactus_idle_11
+  - first:
+      213: -5951333447728525847
+    second: cactus_idle_12
+  - first:
+      213: -8982935540850946595
+    second: cactus_idle_13
+  - first:
+      213: 2502459576465862703
+    second: cactus_idle_14
+  - first:
+      213: -3365119361769984486
+    second: cactus_idle_15
+  - first:
+      213: -7184873586248683926
+    second: cactus_idle_16
+  - first:
+      213: 7352024432560043641
+    second: cactus_idle_17
+  - first:
+      213: -8221442737919320114
+    second: cactus_idle_18
+  - first:
+      213: 7812692011594388749
+    second: cactus_idle_19
+  - first:
+      213: 8873390477536336601
+    second: cactus_idle_20
+  - first:
+      213: 1601671501256854606
+    second: cactus_idle_21
+  - first:
+      213: -1059309490100989702
+    second: cactus_idle_22
+  - first:
+      213: 218273913938614018
+    second: cactus_idle_23
+  - first:
+      213: -6277047684475917793
+    second: cactus_idle_24
+  - first:
+      213: 2456874656560462530
+    second: cactus_idle_25
+  - first:
+      213: 3073151356095569958
+    second: cactus_idle_26
+  - first:
+      213: -3187327989682346910
+    second: cactus_idle_27
+  - first:
+      213: 290562190716075825
+    second: cactus_idle_28
+  - first:
+      213: 8589621890704445967
+    second: cactus_idle_29
+  - first:
+      213: 5917041897136078754
+    second: cactus_idle_30
+  - first:
+      213: 2939200354961307392
+    second: cactus_idle_31
+  - first:
+      213: 9135145267193993999
+    second: cactus_idle_32
+  - first:
+      213: 3143764989365587377
+    second: cactus_idle_33
+  - first:
+      213: 1471126383563956664
+    second: cactus_idle_34
+  - first:
+      213: -8734232226357855377
+    second: cactus_idle_35
+  - first:
+      213: 3688504289179678271
+    second: cactus_idle_36
+  - first:
+      213: 9068400193291560883
+    second: cactus_idle_37
+  - first:
+      213: -8257077262679350522
+    second: cactus_idle_38
+  - first:
+      213: 8736977744844610439
+    second: cactus_idle_39
+  - first:
+      213: 956518794664236151
+    second: cactus_idle_40
+  - first:
+      213: -4156010642166406831
+    second: cactus_idle_41
+  - first:
+      213: -2502888012919356719
+    second: cactus_idle_42
+  - first:
+      213: 6889886477273744645
+    second: cactus_idle_43
+  externalObjects: {}
+  serializedVersion: 11
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: -1
+    aniso: -1
+    mipBias: -100
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: cactus_idle_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 882
+        width: 157
+        height: 126
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5f7b457d8409daf50800000000000000
+      internalID: 6894325247098796021
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cactus_idle_1
+      rect:
+        serializedVersion: 2
+        x: 157
+        y: 882
+        width: 157
+        height: 126
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0b6bd61276ce5e5b0800000000000000
+      internalID: -5339601855491230032
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cactus_idle_2
+      rect:
+        serializedVersion: 2
+        x: 314
+        y: 882
+        width: 157
+        height: 126
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: daf59abc2ed6ba460800000000000000
+      internalID: 7254012445657227181
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cactus_idle_3
+      rect:
+        serializedVersion: 2
+        x: 471
+        y: 882
+        width: 157
+        height: 126
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dbea46cd12f0b7c30800000000000000
+      internalID: 4358093702517010109
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cactus_idle_4
+      rect:
+        serializedVersion: 2
+        x: 628
+        y: 882
+        width: 157
+        height: 126
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 38ad1a6894fa27870800000000000000
+      internalID: 8679192162222594691
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cactus_idle_5
+      rect:
+        serializedVersion: 2
+        x: 785
+        y: 882
+        width: 157
+        height: 126
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a466302dad2931ef0800000000000000
+      internalID: -138605694994389430
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cactus_idle_6
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 756
+        width: 157
+        height: 126
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 489b6d7f12051a7b0800000000000000
+      internalID: -5214798786696136316
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cactus_idle_7
+      rect:
+        serializedVersion: 2
+        x: 157
+        y: 756
+        width: 157
+        height: 126
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3233b47ed436d6050800000000000000
+      internalID: 5795397481739793187
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cactus_idle_8
+      rect:
+        serializedVersion: 2
+        x: 314
+        y: 756
+        width: 157
+        height: 126
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: aeca9c206fe90b0a0800000000000000
+      internalID: -6867814652294091542
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cactus_idle_9
+      rect:
+        serializedVersion: 2
+        x: 471
+        y: 756
+        width: 157
+        height: 126
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f2e6c847caf8b01d0800000000000000
+      internalID: -3383452724186288593
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cactus_idle_10
+      rect:
+        serializedVersion: 2
+        x: 628
+        y: 756
+        width: 157
+        height: 126
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ef2773a60f8d99960800000000000000
+      internalID: 7609351572504933118
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cactus_idle_11
+      rect:
+        serializedVersion: 2
+        x: 785
+        y: 756
+        width: 157
+        height: 126
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f999de9600d928ca0800000000000000
+      internalID: -6016073527110821473
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cactus_idle_12
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 630
+        width: 157
+        height: 126
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9ed8d34c2cd986da0800000000000000
+      internalID: -5951333447728525847
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cactus_idle_13
+      rect:
+        serializedVersion: 2
+        x: 157
+        y: 630
+        width: 157
+        height: 126
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ddd095f18b3365380800000000000000
+      internalID: -8982935540850946595
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cactus_idle_14
+      rect:
+        serializedVersion: 2
+        x: 314
+        y: 630
+        width: 157
+        height: 126
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f20b508e9b58ab220800000000000000
+      internalID: 2502459576465862703
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cactus_idle_15
+      rect:
+        serializedVersion: 2
+        x: 471
+        y: 630
+        width: 157
+        height: 126
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a1e29e605c1bc41d0800000000000000
+      internalID: -3365119361769984486
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cactus_idle_16
+      rect:
+        serializedVersion: 2
+        x: 628
+        y: 630
+        width: 157
+        height: 126
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a6e6f875a833a4c90800000000000000
+      internalID: -7184873586248683926
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cactus_idle_17
+      rect:
+        serializedVersion: 2
+        x: 785
+        y: 630
+        width: 157
+        height: 126
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 976fbbac443a70660800000000000000
+      internalID: 7352024432560043641
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cactus_idle_18
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 504
+        width: 157
+        height: 126
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ecf9a11936197ed80800000000000000
+      internalID: -8221442737919320114
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cactus_idle_19
+      rect:
+        serializedVersion: 2
+        x: 157
+        y: 504
+        width: 157
+        height: 126
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d059d9abdf14c6c60800000000000000
+      internalID: 7812692011594388749
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cactus_idle_20
+      rect:
+        serializedVersion: 2
+        x: 314
+        y: 504
+        width: 157
+        height: 126
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9da13e640ad942b70800000000000000
+      internalID: 8873390477536336601
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cactus_idle_21
+      rect:
+        serializedVersion: 2
+        x: 471
+        y: 504
+        width: 157
+        height: 126
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e4c084f8eb74a3610800000000000000
+      internalID: 1601671501256854606
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cactus_idle_22
+      rect:
+        serializedVersion: 2
+        x: 628
+        y: 504
+        width: 157
+        height: 126
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: af0945791a39c41f0800000000000000
+      internalID: -1059309490100989702
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cactus_idle_23
+      rect:
+        serializedVersion: 2
+        x: 785
+        y: 504
+        width: 157
+        height: 126
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2079b00e7f6770300800000000000000
+      internalID: 218273913938614018
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cactus_idle_24
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 378
+        width: 157
+        height: 126
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f1aef90636273e8a0800000000000000
+      internalID: -6277047684475917793
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cactus_idle_25
+      rect:
+        serializedVersion: 2
+        x: 157
+        y: 378
+        width: 157
+        height: 126
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2ca32f9ab72981220800000000000000
+      internalID: 2456874656560462530
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cactus_idle_26
+      rect:
+        serializedVersion: 2
+        x: 314
+        y: 378
+        width: 157
+        height: 126
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 620261940e606aa20800000000000000
+      internalID: 3073151356095569958
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cactus_idle_27
+      rect:
+        serializedVersion: 2
+        x: 471
+        y: 378
+        width: 157
+        height: 126
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 264e250a41654c3d0800000000000000
+      internalID: -3187327989682346910
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cactus_idle_28
+      rect:
+        serializedVersion: 2
+        x: 628
+        y: 378
+        width: 157
+        height: 126
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 13f7ac2e5c8480400800000000000000
+      internalID: 290562190716075825
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cactus_idle_29
+      rect:
+        serializedVersion: 2
+        x: 785
+        y: 378
+        width: 157
+        height: 126
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f029b5e8997743770800000000000000
+      internalID: 8589621890704445967
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cactus_idle_30
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 252
+        width: 157
+        height: 126
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2af36ef614e8d1250800000000000000
+      internalID: 5917041897136078754
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cactus_idle_31
+      rect:
+        serializedVersion: 2
+        x: 157
+        y: 252
+        width: 157
+        height: 126
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 007bb2976232ac820800000000000000
+      internalID: 2939200354961307392
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cactus_idle_32
+      rect:
+        serializedVersion: 2
+        x: 314
+        y: 252
+        width: 157
+        height: 126
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f0b50be683e86ce70800000000000000
+      internalID: 9135145267193993999
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cactus_idle_33
+      rect:
+        serializedVersion: 2
+        x: 471
+        y: 252
+        width: 157
+        height: 126
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1bd0278f995e0ab20800000000000000
+      internalID: 3143764989365587377
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cactus_idle_34
+      rect:
+        serializedVersion: 2
+        x: 628
+        y: 252
+        width: 157
+        height: 126
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8b1e808c6ad7a6410800000000000000
+      internalID: 1471126383563956664
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cactus_idle_35
+      rect:
+        serializedVersion: 2
+        x: 785
+        y: 252
+        width: 157
+        height: 126
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f6bbb2ae016c9c680800000000000000
+      internalID: -8734232226357855377
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cactus_idle_36
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 126
+        width: 157
+        height: 126
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f363f05cb13303330800000000000000
+      internalID: 3688504289179678271
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cactus_idle_37
+      rect:
+        serializedVersion: 2
+        x: 157
+        y: 126
+        width: 157
+        height: 126
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3b72a3aeded69dd70800000000000000
+      internalID: 9068400193291560883
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cactus_idle_38
+      rect:
+        serializedVersion: 2
+        x: 314
+        y: 126
+        width: 157
+        height: 126
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 603ea0b3af7f86d80800000000000000
+      internalID: -8257077262679350522
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cactus_idle_39
+      rect:
+        serializedVersion: 2
+        x: 471
+        y: 126
+        width: 157
+        height: 126
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 78bd4fbe7faff3970800000000000000
+      internalID: 8736977744844610439
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cactus_idle_40
+      rect:
+        serializedVersion: 2
+        x: 628
+        y: 126
+        width: 157
+        height: 126
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 77452f0a6cc364d00800000000000000
+      internalID: 956518794664236151
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cactus_idle_41
+      rect:
+        serializedVersion: 2
+        x: 785
+        y: 126
+        width: 157
+        height: 126
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 151ade62752e256c0800000000000000
+      internalID: -4156010642166406831
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cactus_idle_42
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 157
+        height: 126
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1d2cb55fc94f34dd0800000000000000
+      internalID: -2502888012919356719
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cactus_idle_43
+      rect:
+        serializedVersion: 2
+        x: 157
+        y: 0
+        width: 157
+        height: 126
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5054ba43f3bcd9f50800000000000000
+      internalID: 6889886477273744645
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
