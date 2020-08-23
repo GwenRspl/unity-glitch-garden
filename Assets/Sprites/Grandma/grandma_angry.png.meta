@@ -1,7 +1,391 @@
 fileFormatVersion: 2
 guid: fab1c789f12c480449b817e8ca4d6ca6
 TextureImporter:
-  internalIDToNameTable: []
+  internalIDToNameTable:
+  - first:
+      213: -1890335917518959427
+    second: grandma_angry_0
+  - first:
+      213: -2877667989599958594
+    second: grandma_angry_1
+  - first:
+      213: -2300817071594721414
+    second: grandma_angry_2
+  - first:
+      213: 1135670157108719019
+    second: grandma_angry_3
+  - first:
+      213: -4890016214912310410
+    second: grandma_angry_4
+  - first:
+      213: 2455629907415539877
+    second: grandma_angry_5
+  - first:
+      213: 7265079505997050219
+    second: grandma_angry_6
+  - first:
+      213: 1476336094653543931
+    second: grandma_angry_7
+  - first:
+      213: -5133254113392387821
+    second: grandma_angry_8
+  - first:
+      213: 8572160010773268286
+    second: grandma_angry_9
+  - first:
+      213: -7724527814381258078
+    second: grandma_angry_10
+  - first:
+      213: 3352646954112135934
+    second: grandma_angry_11
+  - first:
+      213: 2451877946924866915
+    second: grandma_angry_12
+  - first:
+      213: 7733043896897268882
+    second: grandma_angry_13
+  - first:
+      213: -2893835816004802303
+    second: grandma_angry_14
+  - first:
+      213: -4823784280000117604
+    second: grandma_angry_15
+  - first:
+      213: -7090175568696363648
+    second: grandma_angry_16
+  - first:
+      213: 1345399767755751874
+    second: grandma_angry_17
+  - first:
+      213: -2893520544048437265
+    second: grandma_angry_18
+  - first:
+      213: 3895977256587219403
+    second: grandma_angry_19
+  - first:
+      213: 8428275354073671283
+    second: grandma_angry_20
+  - first:
+      213: -8715455306243563912
+    second: grandma_angry_21
+  - first:
+      213: 8162436572847078510
+    second: grandma_angry_22
+  - first:
+      213: 5581728126580922522
+    second: grandma_angry_23
+  - first:
+      213: -2819534555026023503
+    second: grandma_angry_24
+  - first:
+      213: 6282995071588440891
+    second: grandma_angry_25
+  - first:
+      213: 1584897497813865922
+    second: grandma_angry_26
+  - first:
+      213: -5824779439668071604
+    second: grandma_angry_27
+  - first:
+      213: -546591121265980934
+    second: grandma_angry_28
+  - first:
+      213: -8052482487994459437
+    second: grandma_angry_29
+  - first:
+      213: 3417674645116628952
+    second: grandma_angry_30
+  - first:
+      213: -3937033576683397324
+    second: grandma_angry_31
+  - first:
+      213: -6410716599619310628
+    second: grandma_angry_32
+  - first:
+      213: 1285230012980356582
+    second: grandma_angry_33
+  - first:
+      213: -368148272084881125
+    second: grandma_angry_34
+  - first:
+      213: 6787260839441110816
+    second: grandma_angry_35
+  - first:
+      213: 2754108830189172967
+    second: grandma_angry_36
+  - first:
+      213: -5018839182324732866
+    second: grandma_angry_37
+  - first:
+      213: -5104758538480338052
+    second: grandma_angry_38
+  - first:
+      213: 2417725090134300753
+    second: grandma_angry_39
+  - first:
+      213: 4905258928963189971
+    second: grandma_angry_40
+  - first:
+      213: -7859382503508287898
+    second: grandma_angry_41
+  - first:
+      213: -9002117154641907187
+    second: grandma_angry_42
+  - first:
+      213: -6326789400199134650
+    second: grandma_angry_43
+  - first:
+      213: 4812190262323188777
+    second: grandma_angry_44
+  - first:
+      213: 6196416616753869298
+    second: grandma_angry_45
+  - first:
+      213: 6876839245999816679
+    second: grandma_angry_46
+  - first:
+      213: 9083559564181405193
+    second: grandma_angry_47
+  - first:
+      213: 1280415915106558742
+    second: grandma_angry_48
+  - first:
+      213: 1192688359574991839
+    second: grandma_angry_49
+  - first:
+      213: -5890870904501849622
+    second: grandma_angry_50
+  - first:
+      213: 8644357142013317080
+    second: grandma_angry_51
+  - first:
+      213: 2742154626139450654
+    second: grandma_angry_52
+  - first:
+      213: -280758153004831641
+    second: grandma_angry_53
+  - first:
+      213: -4690415432904922183
+    second: grandma_angry_54
+  - first:
+      213: -171994593555457367
+    second: grandma_angry_55
+  - first:
+      213: -68014319733141021
+    second: grandma_angry_56
+  - first:
+      213: 6077485713285661817
+    second: grandma_angry_57
+  - first:
+      213: -5816321677925124604
+    second: grandma_angry_58
+  - first:
+      213: -1253520114196202758
+    second: grandma_angry_59
+  - first:
+      213: -3886464255477033373
+    second: grandma_angry_60
+  - first:
+      213: 1398777366255285940
+    second: grandma_angry_61
+  - first:
+      213: 1818021136483588359
+    second: grandma_angry_62
+  - first:
+      213: 3865422738969137491
+    second: grandma_angry_63
+  - first:
+      213: -3000122741836622552
+    second: grandma_angry_64
+  - first:
+      213: -5040067502798114927
+    second: grandma_angry_65
+  - first:
+      213: 6698197756123673773
+    second: grandma_angry_66
+  - first:
+      213: 3436140719037495997
+    second: grandma_angry_67
+  - first:
+      213: 3982551357074237444
+    second: grandma_angry_68
+  - first:
+      213: -1779393352120296852
+    second: grandma_angry_69
+  - first:
+      213: 8110473234983399364
+    second: grandma_angry_70
+  - first:
+      213: 2327990965847925826
+    second: grandma_angry_71
+  - first:
+      213: 5423974814004805210
+    second: grandma_angry_72
+  - first:
+      213: 4758187807362173255
+    second: grandma_angry_73
+  - first:
+      213: -1828368052470164983
+    second: grandma_angry_74
+  - first:
+      213: 201650422115322944
+    second: grandma_angry_75
+  - first:
+      213: -5571838232103995065
+    second: grandma_angry_76
+  - first:
+      213: 8340134975922745506
+    second: grandma_angry_77
+  - first:
+      213: 1183406696214061981
+    second: grandma_angry_78
+  - first:
+      213: 2001920287089630522
+    second: grandma_angry_79
+  - first:
+      213: -7847539012682001969
+    second: grandma_angry_80
+  - first:
+      213: -2946830762688581995
+    second: grandma_angry_81
+  - first:
+      213: 5195985098494547978
+    second: grandma_angry_82
+  - first:
+      213: -3810712828733300202
+    second: grandma_angry_83
+  - first:
+      213: -445562788862445175
+    second: grandma_angry_84
+  - first:
+      213: 6788840495405573840
+    second: grandma_angry_85
+  - first:
+      213: 8571736535112944431
+    second: grandma_angry_86
+  - first:
+      213: -6093190380716248860
+    second: grandma_angry_87
+  - first:
+      213: -2459697121889668575
+    second: grandma_angry_88
+  - first:
+      213: -2923959715690584010
+    second: grandma_angry_89
+  - first:
+      213: -100280117556829015
+    second: grandma_angry_90
+  - first:
+      213: 1916832896591894274
+    second: grandma_angry_91
+  - first:
+      213: 2647268802028413557
+    second: grandma_angry_92
+  - first:
+      213: -1200118226888217395
+    second: grandma_angry_93
+  - first:
+      213: 6373250951237959309
+    second: grandma_angry_94
+  - first:
+      213: 8450787389164256641
+    second: grandma_angry_95
+  - first:
+      213: 5372887581639980786
+    second: grandma_angry_96
+  - first:
+      213: 7199060212277740901
+    second: grandma_angry_97
+  - first:
+      213: 9186699721205865150
+    second: grandma_angry_98
+  - first:
+      213: 4183921487993212753
+    second: grandma_angry_99
+  - first:
+      213: 2982805959981331529
+    second: grandma_angry_100
+  - first:
+      213: -4603635020385797970
+    second: grandma_angry_101
+  - first:
+      213: -2778019953725847314
+    second: grandma_angry_102
+  - first:
+      213: -3826762378617372973
+    second: grandma_angry_103
+  - first:
+      213: 5936619498701758653
+    second: grandma_angry_104
+  - first:
+      213: -3232392334598381057
+    second: grandma_angry_105
+  - first:
+      213: 839896139127517761
+    second: grandma_angry_106
+  - first:
+      213: 8402482139588330896
+    second: grandma_angry_107
+  - first:
+      213: -3096923590111678702
+    second: grandma_angry_108
+  - first:
+      213: 3399930984424328741
+    second: grandma_angry_109
+  - first:
+      213: 2607489799586090785
+    second: grandma_angry_110
+  - first:
+      213: -1154520345665189103
+    second: grandma_angry_111
+  - first:
+      213: -965196629478642364
+    second: grandma_angry_112
+  - first:
+      213: 3511738985629602679
+    second: grandma_angry_113
+  - first:
+      213: 8872605888593999361
+    second: grandma_angry_114
+  - first:
+      213: 5524657022185846424
+    second: grandma_angry_115
+  - first:
+      213: -24978594101909617
+    second: grandma_angry_116
+  - first:
+      213: -6914333192545864372
+    second: grandma_angry_117
+  - first:
+      213: -6630491505508160875
+    second: grandma_angry_118
+  - first:
+      213: 7848797842677801588
+    second: grandma_angry_119
+  - first:
+      213: 4313064194255034174
+    second: grandma_angry_120
+  - first:
+      213: 6459928026606379924
+    second: grandma_angry_121
+  - first:
+      213: -8487463138539069429
+    second: grandma_angry_122
+  - first:
+      213: 8372947544940341154
+    second: grandma_angry_123
+  - first:
+      213: -5505063162961142124
+    second: grandma_angry_124
+  - first:
+      213: -985323372131962807
+    second: grandma_angry_125
+  - first:
+      213: -1812885039902521588
+    second: grandma_angry_126
+  - first:
+      213: -7606362794515670964
+    second: grandma_angry_127
   externalObjects: {}
   serializedVersion: 11
   mipmaps:
@@ -41,12 +425,12 @@ TextureImporter:
   nPOTScale: 0
   lightmap: 0
   compressionQuality: 50
-  spriteMode: 1
+  spriteMode: 2
   spriteExtrude: 1
   spriteMeshType: 1
   alignment: 0
   spritePivot: {x: 0.5, y: 0.5}
-  spritePixelsToUnits: 100
+  spritePixelsToUnits: 130
   spriteBorder: {x: 0, y: 0, z: 0, w: 0}
   spriteGenerateFallbackPhysicsShape: 1
   alphaUsage: 1
@@ -73,9 +457,2700 @@ TextureImporter:
     overridden: 0
     androidETC2FallbackOverride: 0
     forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
   spriteSheet:
     serializedVersion: 2
-    sprites: []
+    sprites:
+    - serializedVersion: 2
+      name: grandma_angry_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 2430
+        width: 138
+        height: 135
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dbcce1a9f7d24c5e0800000000000000
+      internalID: -1890335917518959427
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: grandma_angry_1
+      rect:
+        serializedVersion: 2
+        x: 138
+        y: 2430
+        width: 138
+        height: 135
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: eb9c162c5387018d0800000000000000
+      internalID: -2877667989599958594
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: grandma_angry_2
+      rect:
+        serializedVersion: 2
+        x: 276
+        y: 2430
+        width: 138
+        height: 135
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a7f217a401bd110e0800000000000000
+      internalID: -2300817071594721414
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: grandma_angry_3
+      rect:
+        serializedVersion: 2
+        x: 414
+        y: 2430
+        width: 138
+        height: 135
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bad2a78adf5b2cf00800000000000000
+      internalID: 1135670157108719019
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: grandma_angry_4
+      rect:
+        serializedVersion: 2
+        x: 552
+        y: 2430
+        width: 138
+        height: 135
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6736044392c232cb0800000000000000
+      internalID: -4890016214912310410
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: grandma_angry_5
+      rect:
+        serializedVersion: 2
+        x: 690
+        y: 2430
+        width: 138
+        height: 135
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5a0245be366241220800000000000000
+      internalID: 2455629907415539877
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: grandma_angry_6
+      rect:
+        serializedVersion: 2
+        x: 828
+        y: 2430
+        width: 138
+        height: 135
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b61bce3915fb2d460800000000000000
+      internalID: 7265079505997050219
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: grandma_angry_7
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 2295
+        width: 138
+        height: 135
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bf579ea2bdffc7410800000000000000
+      internalID: 1476336094653543931
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: grandma_angry_8
+      rect:
+        serializedVersion: 2
+        x: 138
+        y: 2295
+        width: 138
+        height: 135
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3191f6db49403c8b0800000000000000
+      internalID: -5133254113392387821
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: grandma_angry_9
+      rect:
+        serializedVersion: 2
+        x: 276
+        y: 2295
+        width: 138
+        height: 135
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e3703ffcc1e66f670800000000000000
+      internalID: 8572160010773268286
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: grandma_angry_10
+      rect:
+        serializedVersion: 2
+        x: 414
+        y: 2295
+        width: 138
+        height: 135
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2aa3e2e01e6fcc490800000000000000
+      internalID: -7724527814381258078
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: grandma_angry_11
+      rect:
+        serializedVersion: 2
+        x: 552
+        y: 2295
+        width: 138
+        height: 135
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ef2362544aef68e20800000000000000
+      internalID: 3352646954112135934
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: grandma_angry_12
+      rect:
+        serializedVersion: 2
+        x: 690
+        y: 2295
+        width: 138
+        height: 135
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 36d121b8002d60220800000000000000
+      internalID: 2451877946924866915
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: grandma_angry_13
+      rect:
+        serializedVersion: 2
+        x: 828
+        y: 2295
+        width: 138
+        height: 135
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 29c601be37a415b60800000000000000
+      internalID: 7733043896897268882
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: grandma_angry_14
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 2160
+        width: 138
+        height: 135
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1092bb458a707d7d0800000000000000
+      internalID: -2893835816004802303
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: grandma_angry_15
+      rect:
+        serializedVersion: 2
+        x: 138
+        y: 2160
+        width: 138
+        height: 135
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c94ca7d31c97e0db0800000000000000
+      internalID: -4823784280000117604
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: grandma_angry_16
+      rect:
+        serializedVersion: 2
+        x: 276
+        y: 2160
+        width: 138
+        height: 135
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 08533b8b2e2aa9d90800000000000000
+      internalID: -7090175568696363648
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: grandma_angry_17
+      rect:
+        serializedVersion: 2
+        x: 414
+        y: 2160
+        width: 138
+        height: 135
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2c189f5e5f1dba210800000000000000
+      internalID: 1345399767755751874
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: grandma_angry_18
+      rect:
+        serializedVersion: 2
+        x: 552
+        y: 2160
+        width: 138
+        height: 135
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fe7a2bd456628d7d0800000000000000
+      internalID: -2893520544048437265
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: grandma_angry_19
+      rect:
+        serializedVersion: 2
+        x: 690
+        y: 2160
+        width: 138
+        height: 135
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bc1d1ef4caa411630800000000000000
+      internalID: 3895977256587219403
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: grandma_angry_20
+      rect:
+        serializedVersion: 2
+        x: 828
+        y: 2160
+        width: 138
+        height: 135
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 376adb497cf37f470800000000000000
+      internalID: 8428275354073671283
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: grandma_angry_21
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 2025
+        width: 138
+        height: 135
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 87e1f8f439b7c0780800000000000000
+      internalID: -8715455306243563912
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: grandma_angry_22
+      rect:
+        serializedVersion: 2
+        x: 138
+        y: 2025
+        width: 138
+        height: 135
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e6cf43a01dcc64170800000000000000
+      internalID: 8162436572847078510
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: grandma_angry_23
+      rect:
+        serializedVersion: 2
+        x: 276
+        y: 2025
+        width: 138
+        height: 135
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a9899a96828467d40800000000000000
+      internalID: 5581728126580922522
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: grandma_angry_24
+      rect:
+        serializedVersion: 2
+        x: 414
+        y: 2025
+        width: 138
+        height: 135
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1bb1cbfb2400fd8d0800000000000000
+      internalID: -2819534555026023503
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: grandma_angry_25
+      rect:
+        serializedVersion: 2
+        x: 552
+        y: 2025
+        width: 138
+        height: 135
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b3b1f879abea13750800000000000000
+      internalID: 6282995071588440891
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: grandma_angry_26
+      rect:
+        serializedVersion: 2
+        x: 690
+        y: 2025
+        width: 138
+        height: 135
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2c5d99a80efaef510800000000000000
+      internalID: 1584897497813865922
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: grandma_angry_27
+      rect:
+        serializedVersion: 2
+        x: 828
+        y: 2025
+        width: 138
+        height: 135
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c43f59be5f93a2fa0800000000000000
+      internalID: -5824779439668071604
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: grandma_angry_28
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1890
+        width: 138
+        height: 135
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: af90f8b654e1a68f0800000000000000
+      internalID: -546591121265980934
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: grandma_angry_29
+      rect:
+        serializedVersion: 2
+        x: 138
+        y: 1890
+        width: 138
+        height: 135
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3da590f47d5df3090800000000000000
+      internalID: -8052482487994459437
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: grandma_angry_30
+      rect:
+        serializedVersion: 2
+        x: 276
+        y: 1890
+        width: 138
+        height: 135
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8df290c6bf40e6f20800000000000000
+      internalID: 3417674645116628952
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: grandma_angry_31
+      rect:
+        serializedVersion: 2
+        x: 414
+        y: 1890
+        width: 138
+        height: 135
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 43f100142d8dc59c0800000000000000
+      internalID: -3937033576683397324
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: grandma_angry_32
+      rect:
+        serializedVersion: 2
+        x: 552
+        y: 1890
+        width: 138
+        height: 135
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cdbadf3d73f8807a0800000000000000
+      internalID: -6410716599619310628
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: grandma_angry_33
+      rect:
+        serializedVersion: 2
+        x: 690
+        y: 1890
+        width: 138
+        height: 135
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6e56d5a23ed06d110800000000000000
+      internalID: 1285230012980356582
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: grandma_angry_34
+      rect:
+        serializedVersion: 2
+        x: 828
+        y: 1890
+        width: 138
+        height: 135
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b11f4b9d81314eaf0800000000000000
+      internalID: -368148272084881125
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: grandma_angry_35
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1755
+        width: 138
+        height: 135
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0279ec4e5c1313e50800000000000000
+      internalID: 6787260839441110816
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: grandma_angry_36
+      rect:
+        serializedVersion: 2
+        x: 138
+        y: 1755
+        width: 138
+        height: 135
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7e83130a36f883620800000000000000
+      internalID: 2754108830189172967
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: grandma_angry_37
+      rect:
+        serializedVersion: 2
+        x: 276
+        y: 1755
+        width: 138
+        height: 135
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e3ce8b8ca50895ab0800000000000000
+      internalID: -5018839182324732866
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: grandma_angry_38
+      rect:
+        serializedVersion: 2
+        x: 414
+        y: 1755
+        width: 138
+        height: 135
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c7bbcb9c7214829b0800000000000000
+      internalID: -5104758538480338052
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: grandma_angry_39
+      rect:
+        serializedVersion: 2
+        x: 552
+        y: 1755
+        width: 138
+        height: 135
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 158110ae82c7d8120800000000000000
+      internalID: 2417725090134300753
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: grandma_angry_40
+      rect:
+        serializedVersion: 2
+        x: 690
+        y: 1755
+        width: 138
+        height: 135
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3dcf928b10bf21440800000000000000
+      internalID: 4905258928963189971
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: grandma_angry_41
+      rect:
+        serializedVersion: 2
+        x: 828
+        y: 1755
+        width: 138
+        height: 135
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 66ed77cf04ddde290800000000000000
+      internalID: -7859382503508287898
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: grandma_angry_42
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1620
+        width: 138
+        height: 135
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d027e13a42e021380800000000000000
+      internalID: -9002117154641907187
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: grandma_angry_43
+      rect:
+        serializedVersion: 2
+        x: 138
+        y: 1620
+        width: 138
+        height: 135
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6428c60bf8ab238a0800000000000000
+      internalID: -6326789400199134650
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: grandma_angry_44
+      rect:
+        serializedVersion: 2
+        x: 276
+        y: 1620
+        width: 138
+        height: 135
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9241e592c8558c240800000000000000
+      internalID: 4812190262323188777
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: grandma_angry_45
+      rect:
+        serializedVersion: 2
+        x: 414
+        y: 1620
+        width: 138
+        height: 135
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2f131f935181ef550800000000000000
+      internalID: 6196416616753869298
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: grandma_angry_46
+      rect:
+        serializedVersion: 2
+        x: 552
+        y: 1620
+        width: 138
+        height: 135
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7efb843fbd07f6f50800000000000000
+      internalID: 6876839245999816679
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: grandma_angry_47
+      rect:
+        serializedVersion: 2
+        x: 690
+        y: 1620
+        width: 138
+        height: 135
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 90e722ffb494f0e70800000000000000
+      internalID: 9083559564181405193
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: grandma_angry_48
+      rect:
+        serializedVersion: 2
+        x: 828
+        y: 1620
+        width: 138
+        height: 135
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 613eea8ad73f4c110800000000000000
+      internalID: 1280415915106558742
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: grandma_angry_49
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1485
+        width: 138
+        height: 135
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fd3f5307eb74d8010800000000000000
+      internalID: 1192688359574991839
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: grandma_angry_50
+      rect:
+        serializedVersion: 2
+        x: 138
+        y: 1485
+        width: 138
+        height: 135
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ae1bb7f9f1c6f3ea0800000000000000
+      internalID: -5890870904501849622
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: grandma_angry_51
+      rect:
+        serializedVersion: 2
+        x: 276
+        y: 1485
+        width: 138
+        height: 135
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8df8059550de6f770800000000000000
+      internalID: 8644357142013317080
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: grandma_angry_52
+      rect:
+        serializedVersion: 2
+        x: 414
+        y: 1485
+        width: 138
+        height: 135
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e1d6c3a9a171e0620800000000000000
+      internalID: 2742154626139450654
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: grandma_angry_53
+      rect:
+        serializedVersion: 2
+        x: 552
+        y: 1485
+        width: 138
+        height: 135
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 76c2a5682fb8a1cf0800000000000000
+      internalID: -280758153004831641
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: grandma_angry_54
+      rect:
+        serializedVersion: 2
+        x: 690
+        y: 1485
+        width: 138
+        height: 135
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9bb21b0c30c48eeb0800000000000000
+      internalID: -4690415432904922183
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: grandma_angry_55
+      rect:
+        serializedVersion: 2
+        x: 828
+        y: 1485
+        width: 138
+        height: 135
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9aad6d314d3fc9df0800000000000000
+      internalID: -171994593555457367
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: grandma_angry_56
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1350
+        width: 138
+        height: 135
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3e19aa8265d5e0ff0800000000000000
+      internalID: -68014319733141021
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: grandma_angry_57
+      rect:
+        serializedVersion: 2
+        x: 138
+        y: 1350
+        width: 138
+        height: 135
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 97447eb6e01975450800000000000000
+      internalID: 6077485713285661817
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: grandma_angry_58
+      rect:
+        serializedVersion: 2
+        x: 276
+        y: 1350
+        width: 138
+        height: 135
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4067ed70046484fa0800000000000000
+      internalID: -5816321677925124604
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: grandma_angry_59
+      rect:
+        serializedVersion: 2
+        x: 414
+        y: 1350
+        width: 138
+        height: 135
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: afa378af81a9a9ee0800000000000000
+      internalID: -1253520114196202758
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: grandma_angry_60
+      rect:
+        serializedVersion: 2
+        x: 552
+        y: 1350
+        width: 138
+        height: 135
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 366d90cd951801ac0800000000000000
+      internalID: -3886464255477033373
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: grandma_angry_61
+      rect:
+        serializedVersion: 2
+        x: 690
+        y: 1350
+        width: 138
+        height: 135
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4b6b0838a94796310800000000000000
+      internalID: 1398777366255285940
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: grandma_angry_62
+      rect:
+        serializedVersion: 2
+        x: 828
+        y: 1350
+        width: 138
+        height: 135
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 70991426798ea3910800000000000000
+      internalID: 1818021136483588359
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: grandma_angry_63
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1215
+        width: 138
+        height: 135
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 35119fe408db4a530800000000000000
+      internalID: 3865422738969137491
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: grandma_angry_64
+      rect:
+        serializedVersion: 2
+        x: 138
+        y: 1215
+        width: 138
+        height: 135
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 825d14af24c6d56d0800000000000000
+      internalID: -3000122741836622552
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: grandma_angry_65
+      rect:
+        serializedVersion: 2
+        x: 276
+        y: 1215
+        width: 138
+        height: 135
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 19f6ab34f451e0ab0800000000000000
+      internalID: -5040067502798114927
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: grandma_angry_66
+      rect:
+        serializedVersion: 2
+        x: 414
+        y: 1215
+        width: 138
+        height: 135
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: da4f111ee57c4fc50800000000000000
+      internalID: 6698197756123673773
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: grandma_angry_67
+      rect:
+        serializedVersion: 2
+        x: 552
+        y: 1215
+        width: 138
+        height: 135
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dba3c7c47cf9faf20800000000000000
+      internalID: 3436140719037495997
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: grandma_angry_68
+      rect:
+        serializedVersion: 2
+        x: 690
+        y: 1215
+        width: 138
+        height: 135
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 408e82adb5dd44730800000000000000
+      internalID: 3982551357074237444
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: grandma_angry_69
+      rect:
+        serializedVersion: 2
+        x: 828
+        y: 1215
+        width: 138
+        height: 135
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c6a9d238c235e47e0800000000000000
+      internalID: -1779393352120296852
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: grandma_angry_70
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1080
+        width: 138
+        height: 135
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4cfaf73af603e8070800000000000000
+      internalID: 8110473234983399364
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: grandma_angry_71
+      rect:
+        serializedVersion: 2
+        x: 138
+        y: 1080
+        width: 138
+        height: 135
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2442faff27fae4020800000000000000
+      internalID: 2327990965847925826
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: grandma_angry_72
+      rect:
+        serializedVersion: 2
+        x: 276
+        y: 1080
+        width: 138
+        height: 135
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a5efb6b1b54d54b40800000000000000
+      internalID: 5423974814004805210
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: grandma_angry_73
+      rect:
+        serializedVersion: 2
+        x: 414
+        y: 1080
+        width: 138
+        height: 135
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 749ca60d99a780240800000000000000
+      internalID: 4758187807362173255
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: grandma_angry_74
+      rect:
+        serializedVersion: 2
+        x: 552
+        y: 1080
+        width: 138
+        height: 135
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 902d7d181f450a6e0800000000000000
+      internalID: -1828368052470164983
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: grandma_angry_75
+      rect:
+        serializedVersion: 2
+        x: 690
+        y: 1080
+        width: 138
+        height: 135
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 04ccdf29df76cc200800000000000000
+      internalID: 201650422115322944
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: grandma_angry_76
+      rect:
+        serializedVersion: 2
+        x: 828
+        y: 1080
+        width: 138
+        height: 135
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 749308516aadca2b0800000000000000
+      internalID: -5571838232103995065
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: grandma_angry_77
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 945
+        width: 138
+        height: 135
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2a0bfaa929c1eb370800000000000000
+      internalID: 8340134975922745506
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: grandma_angry_78
+      rect:
+        serializedVersion: 2
+        x: 138
+        y: 945
+        width: 138
+        height: 135
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d9368a8ce1e4c6010800000000000000
+      internalID: 1183406696214061981
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: grandma_angry_79
+      rect:
+        serializedVersion: 2
+        x: 276
+        y: 945
+        width: 138
+        height: 135
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a3d10acf4ef38cb10800000000000000
+      internalID: 2001920287089630522
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: grandma_angry_80
+      rect:
+        serializedVersion: 2
+        x: 414
+        y: 945
+        width: 138
+        height: 135
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fc1d11498d0f71390800000000000000
+      internalID: -7847539012682001969
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: grandma_angry_81
+      rect:
+        serializedVersion: 2
+        x: 552
+        y: 945
+        width: 138
+        height: 135
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 59ee0c8c801ca17d0800000000000000
+      internalID: -2946830762688581995
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: grandma_angry_82
+      rect:
+        serializedVersion: 2
+        x: 690
+        y: 945
+        width: 138
+        height: 135
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a089df5eae8db1840800000000000000
+      internalID: 5195985098494547978
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: grandma_angry_83
+      rect:
+        serializedVersion: 2
+        x: 828
+        y: 945
+        width: 138
+        height: 135
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 612e35e4fd0ad1bc0800000000000000
+      internalID: -3810712828733300202
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: grandma_angry_84
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 810
+        width: 138
+        height: 135
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 989b8b4110b01d9f0800000000000000
+      internalID: -445562788862445175
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: grandma_angry_85
+      rect:
+        serializedVersion: 2
+        x: 138
+        y: 810
+        width: 138
+        height: 135
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0d6af65367ec63e50800000000000000
+      internalID: 6788840495405573840
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: grandma_angry_86
+      rect:
+        serializedVersion: 2
+        x: 276
+        y: 810
+        width: 138
+        height: 135
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f2b05a3b6fce4f670800000000000000
+      internalID: 8571736535112944431
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: grandma_angry_87
+      rect:
+        serializedVersion: 2
+        x: 414
+        y: 810
+        width: 138
+        height: 135
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4e0b490c1a3a07ba0800000000000000
+      internalID: -6093190380716248860
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: grandma_angry_88
+      rect:
+        serializedVersion: 2
+        x: 552
+        y: 810
+        width: 138
+        height: 135
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 12237baef766dddd0800000000000000
+      internalID: -2459697121889668575
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: grandma_angry_89
+      rect:
+        serializedVersion: 2
+        x: 690
+        y: 810
+        width: 138
+        height: 135
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 638e5b061220c67d0800000000000000
+      internalID: -2923959715690584010
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: grandma_angry_90
+      rect:
+        serializedVersion: 2
+        x: 828
+        y: 810
+        width: 138
+        height: 135
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9a4adfea3cbbb9ef0800000000000000
+      internalID: -100280117556829015
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: grandma_angry_91
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 675
+        width: 138
+        height: 135
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 20794271d55f99a10800000000000000
+      internalID: 1916832896591894274
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: grandma_angry_92
+      rect:
+        serializedVersion: 2
+        x: 138
+        y: 675
+        width: 138
+        height: 135
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 572a0e913fcfcb420800000000000000
+      internalID: 2647268802028413557
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: grandma_angry_93
+      rect:
+        serializedVersion: 2
+        x: 276
+        y: 675
+        width: 138
+        height: 135
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dcc2bd5c4d2585fe0800000000000000
+      internalID: -1200118226888217395
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: grandma_angry_94
+      rect:
+        serializedVersion: 2
+        x: 414
+        y: 675
+        width: 138
+        height: 135
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d8e75f429f5527850800000000000000
+      internalID: 6373250951237959309
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: grandma_angry_95
+      rect:
+        serializedVersion: 2
+        x: 552
+        y: 675
+        width: 138
+        height: 135
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 18d7c733b5a374570800000000000000
+      internalID: 8450787389164256641
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: grandma_angry_96
+      rect:
+        serializedVersion: 2
+        x: 690
+        y: 675
+        width: 138
+        height: 135
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2f632c9e9c4509a40800000000000000
+      internalID: 5372887581639980786
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: grandma_angry_97
+      rect:
+        serializedVersion: 2
+        x: 828
+        y: 675
+        width: 138
+        height: 135
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 565867dee1338e360800000000000000
+      internalID: 7199060212277740901
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: grandma_angry_98
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 540
+        width: 138
+        height: 135
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ebad7a429b6bd7f70800000000000000
+      internalID: 9186699721205865150
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: grandma_angry_99
+      rect:
+        serializedVersion: 2
+        x: 138
+        y: 540
+        width: 138
+        height: 135
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 15f85fb0d66401a30800000000000000
+      internalID: 4183921487993212753
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: grandma_angry_100
+      rect:
+        serializedVersion: 2
+        x: 276
+        y: 540
+        width: 138
+        height: 135
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 944fa9e873e056920800000000000000
+      internalID: 2982805959981331529
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: grandma_angry_101
+      rect:
+        serializedVersion: 2
+        x: 414
+        y: 540
+        width: 138
+        height: 135
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ea83b5e075a9c10c0800000000000000
+      internalID: -4603635020385797970
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: grandma_angry_102
+      rect:
+        serializedVersion: 2
+        x: 552
+        y: 540
+        width: 138
+        height: 135
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ee84937129d7279d0800000000000000
+      internalID: -2778019953725847314
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: grandma_angry_103
+      rect:
+        serializedVersion: 2
+        x: 690
+        y: 540
+        width: 138
+        height: 135
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3debea644eb94eac0800000000000000
+      internalID: -3826762378617372973
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: grandma_angry_104
+      rect:
+        serializedVersion: 2
+        x: 828
+        y: 540
+        width: 138
+        height: 135
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: db0a6c20bfb136250800000000000000
+      internalID: 5936619498701758653
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: grandma_angry_105
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 405
+        width: 138
+        height: 135
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ff161913c4c3423d0800000000000000
+      internalID: -3232392334598381057
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: grandma_angry_106
+      rect:
+        serializedVersion: 2
+        x: 138
+        y: 405
+        width: 138
+        height: 135
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 142faeca619e7ab00800000000000000
+      internalID: 839896139127517761
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: grandma_angry_107
+      rect:
+        serializedVersion: 2
+        x: 276
+        y: 405
+        width: 138
+        height: 135
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0950ab9dcfc9b9470800000000000000
+      internalID: 8402482139588330896
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: grandma_angry_108
+      rect:
+        serializedVersion: 2
+        x: 414
+        y: 405
+        width: 138
+        height: 135
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 21fadda27648505d0800000000000000
+      internalID: -3096923590111678702
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: grandma_angry_109
+      rect:
+        serializedVersion: 2
+        x: 552
+        y: 405
+        width: 138
+        height: 135
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 52ec47b773bfe2f20800000000000000
+      internalID: 3399930984424328741
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: grandma_angry_110
+      rect:
+        serializedVersion: 2
+        x: 690
+        y: 405
+        width: 138
+        height: 135
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 12f88cb582aaf2420800000000000000
+      internalID: 2607489799586090785
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: grandma_angry_111
+      rect:
+        serializedVersion: 2
+        x: 828
+        y: 405
+        width: 138
+        height: 135
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 11b4aaeccd15affe0800000000000000
+      internalID: -1154520345665189103
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: grandma_angry_112
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 270
+        width: 138
+        height: 135
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 44d658187ceea92f0800000000000000
+      internalID: -965196629478642364
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: grandma_angry_113
+      rect:
+        serializedVersion: 2
+        x: 138
+        y: 270
+        width: 138
+        height: 135
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 773d75e50043cb030800000000000000
+      internalID: 3511738985629602679
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: grandma_angry_114
+      rect:
+        serializedVersion: 2
+        x: 276
+        y: 270
+        width: 138
+        height: 135
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1063fadeb04d12b70800000000000000
+      internalID: 8872605888593999361
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: grandma_angry_115
+      rect:
+        serializedVersion: 2
+        x: 414
+        y: 270
+        width: 138
+        height: 135
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 89631417a468bac40800000000000000
+      internalID: 5524657022185846424
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: grandma_angry_116
+      rect:
+        serializedVersion: 2
+        x: 552
+        y: 270
+        width: 138
+        height: 135
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f87219bd91247aff0800000000000000
+      internalID: -24978594101909617
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: grandma_angry_117
+      rect:
+        serializedVersion: 2
+        x: 690
+        y: 270
+        width: 138
+        height: 135
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c457c97589a5b00a0800000000000000
+      internalID: -6914333192545864372
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: grandma_angry_118
+      rect:
+        serializedVersion: 2
+        x: 828
+        y: 270
+        width: 138
+        height: 135
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 59ae0f70b13cbf3a0800000000000000
+      internalID: -6630491505508160875
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: grandma_angry_119
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 135
+        width: 138
+        height: 135
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 472a9ae9d088cec60800000000000000
+      internalID: 7848797842677801588
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: grandma_angry_120
+      rect:
+        serializedVersion: 2
+        x: 138
+        y: 135
+        width: 138
+        height: 135
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e37170878051bdb30800000000000000
+      internalID: 4313064194255034174
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: grandma_angry_121
+      rect:
+        serializedVersion: 2
+        x: 276
+        y: 135
+        width: 138
+        height: 135
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 493a674605646a950800000000000000
+      internalID: 6459928026606379924
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: grandma_angry_122
+      rect:
+        serializedVersion: 2
+        x: 414
+        y: 135
+        width: 138
+        height: 135
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b0028277e39763a80800000000000000
+      internalID: -8487463138539069429
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: grandma_angry_123
+      rect:
+        serializedVersion: 2
+        x: 552
+        y: 135
+        width: 138
+        height: 135
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2a7e52b2e6fa23470800000000000000
+      internalID: 8372947544940341154
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: grandma_angry_124
+      rect:
+        serializedVersion: 2
+        x: 690
+        y: 135
+        width: 138
+        height: 135
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 49edc9968361a93b0800000000000000
+      internalID: -5505063162961142124
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: grandma_angry_125
+      rect:
+        serializedVersion: 2
+        x: 828
+        y: 135
+        width: 138
+        height: 135
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9403f2f0d9d6352f0800000000000000
+      internalID: -985323372131962807
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: grandma_angry_126
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 138
+        height: 135
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c078df949a657d6e0800000000000000
+      internalID: -1812885039902521588
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
     outline: []
     physicsShape: []
     bones: []
