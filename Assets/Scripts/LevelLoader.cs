@@ -28,4 +28,8 @@ public class LevelLoader : MonoBehaviour {
     public void LoadNextScene() {
         SceneManager.LoadScene(this.currentSceneIndex + 1);
     }
+
+    public void LoadYouLose() {
+        SceneManager.LoadScene("GameOverScreen");
+    }
 }
