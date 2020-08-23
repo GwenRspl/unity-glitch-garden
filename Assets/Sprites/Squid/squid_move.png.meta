@@ -371,6 +371,150 @@ TextureImporter:
   - first:
       213: -9172773090009226831
     second: npc_squid_variant_squidPurple_x1_move_png_1354833318_74
+  - first:
+      213: 3400960995948584107
+    second: squid_move_0
+  - first:
+      213: -8603681302715485636
+    second: squid_move_1
+  - first:
+      213: -6005298561621786116
+    second: squid_move_2
+  - first:
+      213: -8068691451912941930
+    second: squid_move_3
+  - first:
+      213: -5323763200128145912
+    second: squid_move_4
+  - first:
+      213: -5026988515548224474
+    second: squid_move_5
+  - first:
+      213: -5633658368934028310
+    second: squid_move_6
+  - first:
+      213: -4224245856839953217
+    second: squid_move_7
+  - first:
+      213: -820797010752127990
+    second: squid_move_8
+  - first:
+      213: -7391675333943107902
+    second: squid_move_9
+  - first:
+      213: -5062378953027704785
+    second: squid_move_10
+  - first:
+      213: 5290294154099339849
+    second: squid_move_11
+  - first:
+      213: -236682132539518756
+    second: squid_move_12
+  - first:
+      213: 1455698866074180594
+    second: squid_move_13
+  - first:
+      213: 975311184165026862
+    second: squid_move_14
+  - first:
+      213: 7566044216531063644
+    second: squid_move_15
+  - first:
+      213: -2457270874697499911
+    second: squid_move_16
+  - first:
+      213: 3559741691262809392
+    second: squid_move_17
+  - first:
+      213: 5937555902923395455
+    second: squid_move_18
+  - first:
+      213: 8834905509819727158
+    second: squid_move_19
+  - first:
+      213: -6176422670994190482
+    second: squid_move_20
+  - first:
+      213: -5676423259909762323
+    second: squid_move_21
+  - first:
+      213: 143447327856128661
+    second: squid_move_22
+  - first:
+      213: 4751593401503181452
+    second: squid_move_23
+  - first:
+      213: -4696038872770472634
+    second: squid_move_24
+  - first:
+      213: 8005893208069675201
+    second: squid_move_25
+  - first:
+      213: 6469572808919764941
+    second: squid_move_26
+  - first:
+      213: 9079666513793749813
+    second: squid_move_27
+  - first:
+      213: 4632369629106906702
+    second: squid_move_28
+  - first:
+      213: 7439569713964650301
+    second: squid_move_29
+  - first:
+      213: 1770725931043553657
+    second: squid_move_30
+  - first:
+      213: 1000733149968637796
+    second: squid_move_31
+  - first:
+      213: 1984407484253009925
+    second: squid_move_32
+  - first:
+      213: -620100916381216106
+    second: squid_move_33
+  - first:
+      213: -2624476255729442542
+    second: squid_move_34
+  - first:
+      213: 7235231175770423629
+    second: squid_move_35
+  - first:
+      213: -6536326599877444513
+    second: squid_move_36
+  - first:
+      213: -5921833801308730244
+    second: squid_move_37
+  - first:
+      213: -3833186439464538646
+    second: squid_move_38
+  - first:
+      213: 5962383151612160977
+    second: squid_move_39
+  - first:
+      213: -2812877553658542353
+    second: squid_move_40
+  - first:
+      213: 5314479148636457075
+    second: squid_move_41
+  - first:
+      213: -777063990272564812
+    second: squid_move_42
+  - first:
+      213: -1653009081847233086
+    second: squid_move_43
+  - first:
+      213: 5227955071912906788
+    second: squid_move_44
+  - first:
+      213: 7584641969273465250
+    second: squid_move_45
+  - first:
+      213: 7578829911223739091
+    second: squid_move_46
+  - first:
+      213: 991972081006744406
+    second: squid_move_47
   externalObjects: {}
   serializedVersion: 11
   mipmaps:
@@ -470,7 +614,7 @@ TextureImporter:
     serializedVersion: 2
     sprites:
     - serializedVersion: 2
-      name: npc_squid_variant_squidPurple_x1_move_png_1354833318_0
+      name: squid_move_0
       rect:
         serializedVersion: 2
         x: 0
@@ -484,14 +628,14 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 76727168877643610800000000000000
-      internalID: 1600017534966769511
+      spriteID: bac597ab104a23f20800000000000000
+      internalID: 3400960995948584107
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: npc_squid_variant_squidPurple_x1_move_png_1354833318_1
+      name: squid_move_1
       rect:
         serializedVersion: 2
         x: 235
@@ -505,14 +649,14 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 8584344765c1b3a50800000000000000
-      internalID: 6501821644682774616
+      spriteID: c3239fe7075999880800000000000000
+      internalID: -8603681302715485636
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: npc_squid_variant_squidPurple_x1_move_png_1354833318_2
+      name: squid_move_2
       rect:
         serializedVersion: 2
         x: 470
@@ -526,14 +670,14 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: bff31da7709ddb860800000000000000
-      internalID: 7547427176691351547
+      spriteID: cf18e5096c4e8aca0800000000000000
+      internalID: -6005298561621786116
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: npc_squid_variant_squidPurple_x1_move_png_1354833318_3
+      name: squid_move_3
       rect:
         serializedVersion: 2
         x: 705
@@ -547,14 +691,14 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: f1d61dc10b7dc74b0800000000000000
-      internalID: -5441237098372698849
+      spriteID: 69e8f7ecfdf360090800000000000000
+      internalID: -8068691451912941930
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: npc_squid_variant_squidPurple_x1_move_png_1354833318_4
+      name: squid_move_4
       rect:
         serializedVersion: 2
         x: 0
@@ -568,14 +712,14 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: a65baaa53767d32f0800000000000000
-      internalID: -991506105137187478
+      spriteID: 806a01473913e16b0800000000000000
+      internalID: -5323763200128145912
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: npc_squid_variant_squidPurple_x1_move_png_1354833318_5
+      name: squid_move_5
       rect:
         serializedVersion: 2
         x: 235
@@ -589,14 +733,14 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: af1dfed607f6d6dc0800000000000000
-      internalID: -3644133994801409542
+      spriteID: 624a7c8449c8c3ab0800000000000000
+      internalID: -5026988515548224474
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: npc_squid_variant_squidPurple_x1_move_png_1354833318_6
+      name: squid_move_6
       rect:
         serializedVersion: 2
         x: 470
@@ -610,14 +754,14 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 34458926271c031d0800000000000000
-      internalID: -3372983423875918781
+      spriteID: aebd7c5df8931d1b0800000000000000
+      internalID: -5633658368934028310
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: npc_squid_variant_squidPurple_x1_move_png_1354833318_7
+      name: squid_move_7
       rect:
         serializedVersion: 2
         x: 705
@@ -631,14 +775,14 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 2b9a5362ee9d52730800000000000000
-      internalID: 3973821863090825650
+      spriteID: fb4932336c67065c0800000000000000
+      internalID: -4224245856839953217
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: npc_squid_variant_squidPurple_x1_move_png_1354833318_8
+      name: squid_move_8
       rect:
         serializedVersion: 2
         x: 0
@@ -652,14 +796,14 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 1d42fdf31225a6670800000000000000
-      internalID: 8532722746765812945
+      spriteID: a0cba6da771fb94f0800000000000000
+      internalID: -820797010752127990
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: npc_squid_variant_squidPurple_x1_move_png_1354833318_9
+      name: squid_move_9
       rect:
         serializedVersion: 2
         x: 235
@@ -673,14 +817,14 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 4c4b5f8d9f78e3f10800000000000000
-      internalID: 2251386370888414404
+      spriteID: 2cedd41527e7b6990800000000000000
+      internalID: -7391675333943107902
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: npc_squid_variant_squidPurple_x1_move_png_1354833318_10
+      name: squid_move_10
       rect:
         serializedVersion: 2
         x: 470
@@ -694,14 +838,14 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 55404ac0020253680800000000000000
-      internalID: -8776072976838425515
+      spriteID: f28ae52f921deb9b0800000000000000
+      internalID: -5062378953027704785
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: npc_squid_variant_squidPurple_x1_move_png_1354833318_11
+      name: squid_move_11
       rect:
         serializedVersion: 2
         x: 705
@@ -715,14 +859,14 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: c328f6cdb5667ddc0800000000000000
-      internalID: -3614307631215181252
+      spriteID: 942ba640186ea6940800000000000000
+      internalID: 5290294154099339849
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: npc_squid_variant_squidPurple_x1_move_png_1354833318_12
+      name: squid_move_12
       rect:
         serializedVersion: 2
         x: 0
@@ -736,14 +880,14 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 71ebfb77ffa0cbfa0800000000000000
-      internalID: -5783735729108566505
+      spriteID: cd0dc4dbad227bcf0800000000000000
+      internalID: -236682132539518756
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: npc_squid_variant_squidPurple_x1_move_png_1354833318_13
+      name: squid_move_13
       rect:
         serializedVersion: 2
         x: 235
@@ -757,14 +901,14 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 3d5f76924bbf9ab10800000000000000
-      internalID: 1993401061295519187
+      spriteID: 2fb5a44f76ea33410800000000000000
+      internalID: 1455698866074180594
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: npc_squid_variant_squidPurple_x1_move_png_1354833318_14
+      name: squid_move_14
       rect:
         serializedVersion: 2
         x: 470
@@ -778,14 +922,14 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 1f2e8b1af61a58290800000000000000
-      internalID: -7888721671442865423
+      spriteID: e2c3f95ca50098d00800000000000000
+      internalID: 975311184165026862
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: npc_squid_variant_squidPurple_x1_move_png_1354833318_15
+      name: squid_move_15
       rect:
         serializedVersion: 2
         x: 705
@@ -799,14 +943,14 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 65cd86e3e2ac177e0800000000000000
-      internalID: -1769410878615528362
+      spriteID: c539b39d02dfff860800000000000000
+      internalID: 7566044216531063644
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: npc_squid_variant_squidPurple_x1_move_png_1354833318_16
+      name: squid_move_16
       rect:
         serializedVersion: 2
         x: 0
@@ -820,14 +964,14 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 03f1a210f196cde70800000000000000
-      internalID: 9141296925539704624
+      spriteID: 9fafdbc982506edd0800000000000000
+      internalID: -2457270874697499911
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: npc_squid_variant_squidPurple_x1_move_png_1354833318_17
+      name: squid_move_17
       rect:
         serializedVersion: 2
         x: 235
@@ -841,14 +985,14 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: a250ec908818c4780800000000000000
-      internalID: -8697434359079238358
+      spriteID: 0353ed7353eb66130800000000000000
+      internalID: 3559741691262809392
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: npc_squid_variant_squidPurple_x1_move_png_1354833318_18
+      name: squid_move_18
       rect:
         serializedVersion: 2
         x: 470
@@ -862,14 +1006,14 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: cbbeca3189021eea0800000000000000
-      internalID: -5845355003812975684
+      spriteID: f71d5cb92af666250800000000000000
+      internalID: 5937555902923395455
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: npc_squid_variant_squidPurple_x1_move_png_1354833318_19
+      name: squid_move_19
       rect:
         serializedVersion: 2
         x: 705
@@ -883,14 +1027,14 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 1ff84e8b19f4ac3b0800000000000000
-      internalID: -5491489308334059535
+      spriteID: 63d32f870c3eb9a70800000000000000
+      internalID: 8834905509819727158
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: npc_squid_variant_squidPurple_x1_move_png_1354833318_20
+      name: squid_move_20
       rect:
         serializedVersion: 2
         x: 0
@@ -904,14 +1048,14 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 0805359a03767ac00800000000000000
-      internalID: 911810908262715520
+      spriteID: e6fc8b80e40f84aa0800000000000000
+      internalID: -6176422670994190482
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: npc_squid_variant_squidPurple_x1_move_png_1354833318_21
+      name: squid_move_21
       rect:
         serializedVersion: 2
         x: 235
@@ -925,14 +1069,14 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: d1285fa3703c9e0e0800000000000000
-      internalID: -2240044903818755555
+      spriteID: de2505ebe1b4931b0800000000000000
+      internalID: -5676423259909762323
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: npc_squid_variant_squidPurple_x1_move_png_1354833318_22
+      name: squid_move_22
       rect:
         serializedVersion: 2
         x: 470
@@ -946,14 +1090,14 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: aa2047ddac98d3950800000000000000
-      internalID: 6430447347346703018
+      spriteID: 592f7dca590adf100800000000000000
+      internalID: 143447327856128661
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: npc_squid_variant_squidPurple_x1_move_png_1354833318_23
+      name: squid_move_23
       rect:
         serializedVersion: 2
         x: 705
@@ -967,14 +1111,14 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 73dc82e8d6aca41e0800000000000000
-      internalID: -2212733695013892809
+      spriteID: c8aefad060d01f140800000000000000
+      internalID: 4751593401503181452
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: npc_squid_variant_squidPurple_x1_move_png_1354833318_24
+      name: squid_move_24
       rect:
         serializedVersion: 2
         x: 0
@@ -988,14 +1132,14 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 6749bf2eefd98d430800000000000000
-      internalID: 3807967202997146742
+      spriteID: 6451711a68154deb0800000000000000
+      internalID: -4696038872770472634
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: npc_squid_variant_squidPurple_x1_move_png_1354833318_25
+      name: squid_move_25
       rect:
         serializedVersion: 2
         x: 235
@@ -1009,14 +1153,14 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: aedaac26c650ff540800000000000000
-      internalID: 5043756070750301674
+      spriteID: 1c894b8a475aa1f60800000000000000
+      internalID: 8005893208069675201
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: npc_squid_variant_squidPurple_x1_move_png_1354833318_26
+      name: squid_move_26
       rect:
         serializedVersion: 2
         x: 470
@@ -1030,14 +1174,14 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 2f90d1da10bcc0db0800000000000000
-      internalID: -4824257892760876558
+      spriteID: dcf4034413a88c950800000000000000
+      internalID: 6469572808919764941
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: npc_squid_variant_squidPurple_x1_move_png_1354833318_27
+      name: squid_move_27
       rect:
         serializedVersion: 2
         x: 705
@@ -1051,14 +1195,14 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 6b3a0cb8dc5d02d50800000000000000
-      internalID: 6710598523571708854
+      spriteID: 5339fa19694710e70800000000000000
+      internalID: 9079666513793749813
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: npc_squid_variant_squidPurple_x1_move_png_1354833318_28
+      name: squid_move_28
       rect:
         serializedVersion: 2
         x: 0
@@ -1072,14 +1216,14 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: ae5a3ac9cd5917680800000000000000
-      internalID: -8759055025505589782
+      spriteID: e46a93362ab794040800000000000000
+      internalID: 4632369629106906702
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: npc_squid_variant_squidPurple_x1_move_png_1354833318_29
+      name: squid_move_29
       rect:
         serializedVersion: 2
         x: 235
@@ -1093,14 +1237,14 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 6f3205e8c7e5ad8e0800000000000000
-      internalID: -1667916822930775050
+      spriteID: d3f0e920d39ae3760800000000000000
+      internalID: 7439569713964650301
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: npc_squid_variant_squidPurple_x1_move_png_1354833318_30
+      name: squid_move_30
       rect:
         serializedVersion: 2
         x: 470
@@ -1114,14 +1258,14 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 16b1082553a7a3360800000000000000
-      internalID: 7150161727840066401
+      spriteID: 9718c624ad1e29810800000000000000
+      internalID: 1770725931043553657
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: npc_squid_variant_squidPurple_x1_move_png_1354833318_31
+      name: squid_move_31
       rect:
         serializedVersion: 2
         x: 705
@@ -1135,14 +1279,14 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: ad591d66a65840560800000000000000
-      internalID: 7279089589775603162
+      spriteID: 46f96de6f7153ed00800000000000000
+      internalID: 1000733149968637796
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: npc_squid_variant_squidPurple_x1_move_png_1354833318_32
+      name: squid_move_32
       rect:
         serializedVersion: 2
         x: 0
@@ -1156,14 +1300,14 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: ceada5560b9440870800000000000000
-      internalID: 8648118206421719788
+      spriteID: 508f684d7180a8b10800000000000000
+      internalID: 1984407484253009925
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: npc_squid_variant_squidPurple_x1_move_png_1354833318_33
+      name: squid_move_33
       rect:
         serializedVersion: 2
         x: 235
@@ -1177,14 +1321,14 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 8f5bee8d0b9d2acc0800000000000000
-      internalID: -3701156590168132104
+      spriteID: 69214328085f467f0800000000000000
+      internalID: -620100916381216106
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: npc_squid_variant_squidPurple_x1_move_png_1354833318_34
+      name: squid_move_34
       rect:
         serializedVersion: 2
         x: 470
@@ -1198,14 +1342,14 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: c92f807c6c1eb2870800000000000000
-      internalID: 8659262952408937116
+      spriteID: 211accf10ccf39bd0800000000000000
+      internalID: -2624476255729442542
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: npc_squid_variant_squidPurple_x1_move_png_1354833318_35
+      name: squid_move_35
       rect:
         serializedVersion: 2
         x: 705
@@ -1219,14 +1363,14 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 913799e6f6b64f3d0800000000000000
-      internalID: -3173793711048264935
+      spriteID: d41c0a3ab64b86460800000000000000
+      internalID: 7235231175770423629
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: npc_squid_variant_squidPurple_x1_move_png_1354833318_36
+      name: squid_move_36
       rect:
         serializedVersion: 2
         x: 0
@@ -1240,14 +1384,14 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 0661170a3db6009c0800000000000000
-      internalID: -3963049115411999136
+      spriteID: f5c3e5e969d4a45a0800000000000000
+      internalID: -6536326599877444513
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: npc_squid_variant_squidPurple_x1_move_png_1354833318_37
+      name: squid_move_37
       rect:
         serializedVersion: 2
         x: 235
@@ -1261,14 +1405,14 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 25aed4cc1b8f778c0800000000000000
-      internalID: -4001456301374838190
+      spriteID: c7c871e688b61dda0800000000000000
+      internalID: -5921833801308730244
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: npc_squid_variant_squidPurple_x1_move_png_1354833318_38
+      name: squid_move_38
       rect:
         serializedVersion: 2
         x: 470
@@ -1282,14 +1426,14 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: b838afbc995fac510800000000000000
-      internalID: 1570337460993033099
+      spriteID: aed2fdd0e39cdcac0800000000000000
+      internalID: -3833186439464538646
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: npc_squid_variant_squidPurple_x1_move_png_1354833318_39
+      name: squid_move_39
       rect:
         serializedVersion: 2
         x: 705
@@ -1303,14 +1447,14 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: d38dccbea291475f0800000000000000
-      internalID: -759954764983379907
+      spriteID: 1dbed96e2e3aeb250800000000000000
+      internalID: 5962383151612160977
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: npc_squid_variant_squidPurple_x1_move_png_1354833318_40
+      name: squid_move_40
       rect:
         serializedVersion: 2
         x: 0
@@ -1324,14 +1468,14 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: b629598513997a1f0800000000000000
-      internalID: -1033689152239594901
+      spriteID: fe64389a4c6a6f8d0800000000000000
+      internalID: -2812877553658542353
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: npc_squid_variant_squidPurple_x1_move_png_1354833318_41
+      name: squid_move_41
       rect:
         serializedVersion: 2
         x: 235
@@ -1345,14 +1489,14 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: dcff2d1c19b907900800000000000000
-      internalID: 680214594057338829
+      spriteID: 37842bcd0a2d0c940800000000000000
+      internalID: 5314479148636457075
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: npc_squid_variant_squidPurple_x1_move_png_1354833318_42
+      name: squid_move_42
       rect:
         serializedVersion: 2
         x: 470
@@ -1366,14 +1510,14 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 502e8cd955f742c80800000000000000
-      internalID: -8348407803541921275
+      spriteID: 4b16e0cfa605735f0800000000000000
+      internalID: -777063990272564812
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: npc_squid_variant_squidPurple_x1_move_png_1354833318_43
+      name: squid_move_43
       rect:
         serializedVersion: 2
         x: 705
@@ -1387,14 +1531,14 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 7408c8c8906892660800000000000000
-      internalID: 7361562441484632135
+      spriteID: 2c540028ff45f09e0800000000000000
+      internalID: -1653009081847233086
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: npc_squid_variant_squidPurple_x1_move_png_1354833318_44
+      name: squid_move_44
       rect:
         serializedVersion: 2
         x: 0
@@ -1408,14 +1552,14 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 2e093d899056894d0800000000000000
-      internalID: -3127638849315696414
+      spriteID: 4201213607d6d8840800000000000000
+      internalID: 5227955071912906788
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: npc_squid_variant_squidPurple_x1_move_png_1354833318_45
+      name: squid_move_45
       rect:
         serializedVersion: 2
         x: 235
@@ -1429,14 +1573,14 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: e829a6249b45451a0800000000000000
-      internalID: -6821734380899495282
+      spriteID: 2a960179faf024960800000000000000
+      internalID: 7584641969273465250
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: npc_squid_variant_squidPurple_x1_move_png_1354833318_46
+      name: squid_move_46
       rect:
         serializedVersion: 2
         x: 470
@@ -1450,14 +1594,14 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 6e607e6948d020980800000000000000
-      internalID: -8574275877441435930
+      spriteID: 3d2a89f56a96d2960800000000000000
+      internalID: 7578829911223739091
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: npc_squid_variant_squidPurple_x1_move_png_1354833318_47
+      name: squid_move_47
       rect:
         serializedVersion: 2
         x: 705
@@ -1471,8 +1615,8 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: f17c991007bebc540800000000000000
-      internalID: 5029372275185010463
+      spriteID: 653138b1a5134cd00800000000000000
+      internalID: 991972081006744406
       vertices: []
       indices: 
       edges: []
