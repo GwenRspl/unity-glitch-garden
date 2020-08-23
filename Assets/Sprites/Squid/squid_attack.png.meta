@@ -1,0 +1,1528 @@
+fileFormatVersion: 2
+guid: 94c6ecd1ec307aa4ea2c92730bb69784
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 655915829733117945
+    second: squid_attract_0
+  - first:
+      213: 2145430536605947830
+    second: squid_attract_1
+  - first:
+      213: -3259400665895513016
+    second: squid_attract_2
+  - first:
+      213: -1689764211410869081
+    second: squid_attract_3
+  - first:
+      213: -7509093459053326404
+    second: squid_attract_4
+  - first:
+      213: -9129272261812573854
+    second: squid_attract_5
+  - first:
+      213: -650337635728292925
+    second: squid_attract_6
+  - first:
+      213: -2217148013811605533
+    second: squid_attract_7
+  - first:
+      213: 7448639427714434399
+    second: squid_attract_8
+  - first:
+      213: -2305936084435427538
+    second: squid_attract_9
+  - first:
+      213: -3554890378039691495
+    second: squid_attract_10
+  - first:
+      213: 8291150074310458957
+    second: squid_attract_11
+  - first:
+      213: 9197499170858170744
+    second: squid_attract_12
+  - first:
+      213: -3292383501236476843
+    second: squid_attract_13
+  - first:
+      213: 9038183608281513390
+    second: squid_attract_14
+  - first:
+      213: -2528292413047253751
+    second: squid_attract_15
+  - first:
+      213: -7546271102572041704
+    second: squid_attract_16
+  - first:
+      213: -8039225686988485532
+    second: squid_attract_17
+  - first:
+      213: -8820047249468529952
+    second: squid_attract_18
+  - first:
+      213: -1568020537150178249
+    second: squid_attract_19
+  - first:
+      213: 1681281590844981191
+    second: squid_attract_20
+  - first:
+      213: -7029932421630147549
+    second: squid_attract_21
+  - first:
+      213: 4376917039500177750
+    second: squid_attract_22
+  - first:
+      213: -3051713002927730557
+    second: squid_attract_23
+  - first:
+      213: -7921472528858148174
+    second: squid_attract_24
+  - first:
+      213: -6638622806690642519
+    second: squid_attract_25
+  - first:
+      213: 5039763343285102925
+    second: squid_attract_26
+  - first:
+      213: -7642217936026859740
+    second: squid_attract_27
+  - first:
+      213: -8098955713941391012
+    second: squid_attract_28
+  - first:
+      213: -2929357297726523074
+    second: squid_attract_29
+  - first:
+      213: -580573610706444507
+    second: squid_attract_30
+  - first:
+      213: -1492740840557330994
+    second: squid_attract_31
+  - first:
+      213: -2660796474482479040
+    second: squid_attract_32
+  - first:
+      213: -6838210203803960626
+    second: squid_attract_33
+  - first:
+      213: 124106335374633382
+    second: squid_attract_34
+  - first:
+      213: 1884339480184538745
+    second: squid_attract_35
+  - first:
+      213: -6524954829094255939
+    second: squid_attract_36
+  - first:
+      213: 1842106843060709126
+    second: squid_attract_37
+  - first:
+      213: -4589733053001888738
+    second: squid_attract_38
+  - first:
+      213: -7144214948449889250
+    second: squid_attract_39
+  - first:
+      213: -8438382525202158024
+    second: squid_attract_40
+  - first:
+      213: -8119548552029877368
+    second: squid_attract_41
+  - first:
+      213: 709726994438465131
+    second: squid_attract_42
+  - first:
+      213: -2413942976193367307
+    second: squid_attract_43
+  - first:
+      213: 7535723342323553339
+    second: squid_attract_44
+  - first:
+      213: -1315781811186063120
+    second: squid_attract_45
+  - first:
+      213: 1872339732848401293
+    second: squid_attract_46
+  - first:
+      213: 2600202821900644139
+    second: squid_attack_0
+  - first:
+      213: -5006260607464427433
+    second: squid_attack_1
+  - first:
+      213: -985270455549514743
+    second: squid_attack_2
+  - first:
+      213: 2184773164556771894
+    second: squid_attack_3
+  - first:
+      213: 5580850479088914616
+    second: squid_attack_4
+  - first:
+      213: -6094965678862123403
+    second: squid_attack_5
+  - first:
+      213: 7643439940999873128
+    second: squid_attack_6
+  - first:
+      213: -5746978407075231659
+    second: squid_attack_7
+  - first:
+      213: 8392080524690416406
+    second: squid_attack_8
+  - first:
+      213: 7571003334356987082
+    second: squid_attack_9
+  - first:
+      213: -4339681165686924172
+    second: squid_attack_10
+  - first:
+      213: 8503564406043217887
+    second: squid_attack_11
+  - first:
+      213: -1359827183911694740
+    second: squid_attack_12
+  - first:
+      213: -4546601514209655262
+    second: squid_attack_13
+  - first:
+      213: -5876329148789609208
+    second: squid_attack_14
+  - first:
+      213: -1326926043292299711
+    second: squid_attack_15
+  - first:
+      213: 2068158237380371740
+    second: squid_attack_16
+  - first:
+      213: 1392597135348500367
+    second: squid_attack_17
+  - first:
+      213: 7978970814517407292
+    second: squid_attack_18
+  - first:
+      213: 2822756944086394213
+    second: squid_attack_19
+  - first:
+      213: 4712406043714674045
+    second: squid_attack_20
+  - first:
+      213: -4529064242438888304
+    second: squid_attack_21
+  - first:
+      213: 921855981404191343
+    second: squid_attack_22
+  - first:
+      213: -4920009609108012288
+    second: squid_attack_23
+  - first:
+      213: -4913546355480558034
+    second: squid_attack_24
+  - first:
+      213: 5175415499461377139
+    second: squid_attack_25
+  - first:
+      213: -859264303849739156
+    second: squid_attack_26
+  - first:
+      213: -2823253350417222318
+    second: squid_attack_27
+  - first:
+      213: -1234169597217147270
+    second: squid_attack_28
+  - first:
+      213: 6635412623682734085
+    second: squid_attack_29
+  - first:
+      213: -5247050370368624316
+    second: squid_attack_30
+  - first:
+      213: 2946540206375728012
+    second: squid_attack_31
+  - first:
+      213: 4564166193862925938
+    second: squid_attack_32
+  - first:
+      213: -1286895286278081345
+    second: squid_attack_33
+  - first:
+      213: -592855926888222432
+    second: squid_attack_34
+  - first:
+      213: 5184973457888054317
+    second: squid_attack_35
+  - first:
+      213: -5318257788401872509
+    second: squid_attack_36
+  - first:
+      213: -5778862665950842401
+    second: squid_attack_37
+  - first:
+      213: 4440482109851133934
+    second: squid_attack_38
+  - first:
+      213: -5327516683362043438
+    second: squid_attack_39
+  - first:
+      213: 1375828021208142364
+    second: squid_attack_40
+  - first:
+      213: 1913982451248277396
+    second: squid_attack_41
+  - first:
+      213: -8284557133081782523
+    second: squid_attack_42
+  - first:
+      213: -9107351838573058893
+    second: squid_attack_43
+  - first:
+      213: -5675796610022812519
+    second: squid_attack_44
+  - first:
+      213: -4435277498283507798
+    second: squid_attack_45
+  - first:
+      213: -8193089854489764225
+    second: squid_attack_46
+  - first:
+      213: 4562499186734681475
+    second: squid_attack_0
+  - first:
+      213: -7887009601254435772
+    second: squid_attack_1
+  - first:
+      213: -3392629940945546310
+    second: squid_attack_2
+  - first:
+      213: -626011609188771466
+    second: squid_attack_3
+  - first:
+      213: -5482455890821251467
+    second: squid_attack_4
+  - first:
+      213: 1430796033401001924
+    second: squid_attack_5
+  - first:
+      213: 1315214893637091939
+    second: squid_attack_6
+  - first:
+      213: -8413639082423369226
+    second: squid_attack_7
+  - first:
+      213: 7885054141879286768
+    second: squid_attack_8
+  - first:
+      213: -2673815860158517326
+    second: squid_attack_9
+  - first:
+      213: -9172010377186714461
+    second: squid_attack_10
+  - first:
+      213: -6616808399790957315
+    second: squid_attack_11
+  - first:
+      213: -8966440829729212618
+    second: squid_attack_12
+  - first:
+      213: 3821007722181738814
+    second: squid_attack_13
+  - first:
+      213: 3374542920192192743
+    second: squid_attack_14
+  - first:
+      213: 7808688460902470621
+    second: squid_attack_15
+  - first:
+      213: 2452419637339321864
+    second: squid_attack_16
+  - first:
+      213: 4573280186769299552
+    second: squid_attack_17
+  - first:
+      213: 2212784998897641349
+    second: squid_attack_18
+  - first:
+      213: 8052782216618548978
+    second: squid_attack_19
+  - first:
+      213: -2497082669565031138
+    second: squid_attack_20
+  - first:
+      213: -4890355553989493357
+    second: squid_attack_21
+  - first:
+      213: 2002068093971294594
+    second: squid_attack_22
+  - first:
+      213: 1300676480965979812
+    second: squid_attack_23
+  - first:
+      213: 4629155650595715370
+    second: squid_attack_24
+  - first:
+      213: 8119885695013120006
+    second: squid_attack_25
+  - first:
+      213: 3871534912261417900
+    second: squid_attack_26
+  - first:
+      213: -8409546781908578662
+    second: squid_attack_27
+  - first:
+      213: -4834047201421643763
+    second: squid_attack_28
+  - first:
+      213: -5316539277461434199
+    second: squid_attack_29
+  - first:
+      213: -6321136569064902794
+    second: squid_attack_30
+  - first:
+      213: -5628427072645357884
+    second: squid_attack_31
+  - first:
+      213: -7446764913667310537
+    second: squid_attack_32
+  - first:
+      213: -3470471809790217469
+    second: squid_attack_33
+  - first:
+      213: -4910282552208367309
+    second: squid_attack_34
+  - first:
+      213: 6231270297096443262
+    second: squid_attack_35
+  - first:
+      213: -5844251225819978944
+    second: squid_attack_36
+  - first:
+      213: 3177230712089893377
+    second: squid_attack_37
+  - first:
+      213: 4502698590932763973
+    second: squid_attack_38
+  - first:
+      213: -1173656021057956030
+    second: squid_attack_39
+  - first:
+      213: 4706057372828069508
+    second: squid_attack_40
+  - first:
+      213: -7913919270472923275
+    second: squid_attack_41
+  - first:
+      213: 289086941799387399
+    second: squid_attack_42
+  - first:
+      213: -260233195267473888
+    second: squid_attack_43
+  - first:
+      213: 6459878556814015671
+    second: squid_attack_44
+  - first:
+      213: -1039975836008847453
+    second: squid_attack_45
+  - first:
+      213: 267766505009683467
+    second: squid_attack_46
+  externalObjects: {}
+  serializedVersion: 11
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: -1
+    aniso: -1
+    mipBias: -100
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 4096
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 4096
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: WebGL
+    maxTextureSize: 4096
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: squid_attack_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 2761
+        width: 235
+        height: 251
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 38d445156d0415f30800000000000000
+      internalID: 4562499186734681475
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: squid_attack_1
+      rect:
+        serializedVersion: 2
+        x: 235
+        y: 2761
+        width: 235
+        height: 251
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 44452290e86bb8290800000000000000
+      internalID: -7887009601254435772
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: squid_attack_2
+      rect:
+        serializedVersion: 2
+        x: 470
+        y: 2761
+        width: 235
+        height: 251
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ab3169b2b05fae0d0800000000000000
+      internalID: -3392629940945546310
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: squid_attack_3
+      rect:
+        serializedVersion: 2
+        x: 705
+        y: 2761
+        width: 235
+        height: 251
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 679580912c5ff47f0800000000000000
+      internalID: -626011609188771466
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: squid_attack_4
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 2510
+        width: 235
+        height: 251
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 57ef9d22a676ae3b0800000000000000
+      internalID: -5482455890821251467
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: squid_attack_5
+      rect:
+        serializedVersion: 2
+        x: 235
+        y: 2510
+        width: 235
+        height: 251
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4c797e469653bd310800000000000000
+      internalID: 1430796033401001924
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: squid_attack_6
+      rect:
+        serializedVersion: 2
+        x: 470
+        y: 2510
+        width: 235
+        height: 251
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 362ca8a3af4904210800000000000000
+      internalID: 1315214893637091939
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: squid_attack_7
+      rect:
+        serializedVersion: 2
+        x: 705
+        y: 2510
+        width: 235
+        height: 251
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6f1cfc7f4dfbc3b80800000000000000
+      internalID: -8413639082423369226
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: squid_attack_8
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 2259
+        width: 235
+        height: 251
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0fbff6917f65d6d60800000000000000
+      internalID: 7885054141879286768
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: squid_attack_9
+      rect:
+        serializedVersion: 2
+        x: 235
+        y: 2259
+        width: 235
+        height: 251
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2bf227444a2b4ead0800000000000000
+      internalID: -2673815860158517326
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: squid_attack_10
+      rect:
+        serializedVersion: 2
+        x: 470
+        y: 2259
+        width: 235
+        height: 251
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3acd697482976b080800000000000000
+      internalID: -9172010377186714461
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: squid_attack_11
+      rect:
+        serializedVersion: 2
+        x: 705
+        y: 2259
+        width: 235
+        height: 251
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dfc93a751df5c24a0800000000000000
+      internalID: -6616808399790957315
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: squid_attack_12
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 2008
+        width: 235
+        height: 251
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6377e64529dc09380800000000000000
+      internalID: -8966440829729212618
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: squid_attack_13
+      rect:
+        serializedVersion: 2
+        x: 235
+        y: 2008
+        width: 235
+        height: 251
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e31caac5742f60530800000000000000
+      internalID: 3821007722181738814
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: squid_attack_14
+      rect:
+        serializedVersion: 2
+        x: 470
+        y: 2008
+        width: 235
+        height: 251
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7e07d5528e8c4de20800000000000000
+      internalID: 3374542920192192743
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: squid_attack_15
+      rect:
+        serializedVersion: 2
+        x: 705
+        y: 2008
+        width: 235
+        height: 251
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dd398c178c80e5c60800000000000000
+      internalID: 7808688460902470621
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: squid_attack_16
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1757
+        width: 235
+        height: 251
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8067dcbaaaeb80220800000000000000
+      internalID: 2452419637339321864
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: squid_attack_17
+      rect:
+        serializedVersion: 2
+        x: 235
+        y: 1757
+        width: 235
+        height: 251
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 06857be791e877f30800000000000000
+      internalID: 4573280186769299552
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: squid_attack_18
+      rect:
+        serializedVersion: 2
+        x: 470
+        y: 1757
+        width: 235
+        height: 251
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5876b9f8b3465be10800000000000000
+      internalID: 2212784998897641349
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: squid_attack_19
+      rect:
+        serializedVersion: 2
+        x: 705
+        y: 1757
+        width: 235
+        height: 251
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2fe9123b2ca31cf60800000000000000
+      internalID: 8052782216618548978
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: squid_attack_20
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1506
+        width: 235
+        height: 251
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e1dcac9ca84985dd0800000000000000
+      internalID: -2497082669565031138
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: squid_attack_21
+      rect:
+        serializedVersion: 2
+        x: 235
+        y: 1506
+        width: 235
+        height: 251
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 39df81ba887f12cb0800000000000000
+      internalID: -4890355553989493357
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: squid_attack_22
+      rect:
+        serializedVersion: 2
+        x: 470
+        y: 1506
+        width: 235
+        height: 251
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2896d45f256c8cb10800000000000000
+      internalID: 2002068093971294594
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: squid_attack_23
+      rect:
+        serializedVersion: 2
+        x: 705
+        y: 1506
+        width: 235
+        height: 251
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4aeaeaf3e5eec0210800000000000000
+      internalID: 1300676480965979812
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: squid_attack_24
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1255
+        width: 235
+        height: 251
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a29ffb3b9801e3040800000000000000
+      internalID: 4629155650595715370
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: squid_attack_25
+      rect:
+        serializedVersion: 2
+        x: 235
+        y: 1255
+        width: 235
+        height: 251
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6086804c401afa070800000000000000
+      internalID: 8119885695013120006
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: squid_attack_26
+      rect:
+        serializedVersion: 2
+        x: 470
+        y: 1255
+        width: 235
+        height: 251
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cab6ddc8d747ab530800000000000000
+      internalID: 3871534912261417900
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: squid_attack_27
+      rect:
+        serializedVersion: 2
+        x: 705
+        y: 1255
+        width: 235
+        height: 251
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a9e4f4ee1c94b4b80800000000000000
+      internalID: -8409546781908578662
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: squid_attack_28
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1004
+        width: 235
+        height: 251
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d00bac3aea30aecb0800000000000000
+      internalID: -4834047201421643763
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: squid_attack_29
+      rect:
+        serializedVersion: 2
+        x: 235
+        y: 1004
+        width: 235
+        height: 251
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9a0df7402bbd736b0800000000000000
+      internalID: -5316539277461434199
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: squid_attack_30
+      rect:
+        serializedVersion: 2
+        x: 470
+        y: 1004
+        width: 235
+        height: 251
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 67fa72008cfc648a0800000000000000
+      internalID: -6321136569064902794
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: squid_attack_31
+      rect:
+        serializedVersion: 2
+        x: 705
+        y: 1004
+        width: 235
+        height: 251
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4ce18cae56fc3e1b0800000000000000
+      internalID: -5628427072645357884
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: squid_attack_32
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 753
+        width: 235
+        height: 251
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 73c740304c6c7a890800000000000000
+      internalID: -7446764913667310537
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: squid_attack_33
+      rect:
+        serializedVersion: 2
+        x: 235
+        y: 753
+        width: 235
+        height: 251
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 303727eb64866dfc0800000000000000
+      internalID: -3470471809790217469
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: squid_attack_34
+      rect:
+        serializedVersion: 2
+        x: 470
+        y: 753
+        width: 235
+        height: 251
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 33162d8d80c2bdbb0800000000000000
+      internalID: -4910282552208367309
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: squid_attack_35
+      rect:
+        serializedVersion: 2
+        x: 705
+        y: 753
+        width: 235
+        height: 251
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e7550ed025be97650800000000000000
+      internalID: 6231270297096443262
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: squid_attack_36
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 502
+        width: 235
+        height: 251
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 043ebda697c05eea0800000000000000
+      internalID: -5844251225819978944
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: squid_attack_37
+      rect:
+        serializedVersion: 2
+        x: 235
+        y: 502
+        width: 235
+        height: 251
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 10a549bbf7ac71c20800000000000000
+      internalID: 3177230712089893377
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: squid_attack_38
+      rect:
+        serializedVersion: 2
+        x: 470
+        y: 502
+        width: 235
+        height: 251
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 545033b138ccc7e30800000000000000
+      internalID: 4502698590932763973
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: squid_attack_39
+      rect:
+        serializedVersion: 2
+        x: 705
+        y: 502
+        width: 235
+        height: 251
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2479750311656bfe0800000000000000
+      internalID: -1173656021057956030
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: squid_attack_40
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 251
+        width: 235
+        height: 251
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 48e66003f364f4140800000000000000
+      internalID: 4706057372828069508
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: squid_attack_41
+      rect:
+        serializedVersion: 2
+        x: 235
+        y: 251
+        width: 235
+        height: 251
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 577c75e6a5c1c2290800000000000000
+      internalID: -7913919270472923275
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: squid_attack_42
+      rect:
+        serializedVersion: 2
+        x: 470
+        y: 251
+        width: 235
+        height: 251
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 701182bba0b030400800000000000000
+      internalID: 289086941799387399
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: squid_attack_43
+      rect:
+        serializedVersion: 2
+        x: 705
+        y: 251
+        width: 235
+        height: 251
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 02e3155a947736cf0800000000000000
+      internalID: -260233195267473888
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: squid_attack_44
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 235
+        height: 251
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7bcff0f425916a950800000000000000
+      internalID: 6459878556814015671
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: squid_attack_45
+      rect:
+        serializedVersion: 2
+        x: 235
+        y: 0
+        width: 235
+        height: 251
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3a7e3b7bc734191f0800000000000000
+      internalID: -1039975836008847453
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: squid_attack_46
+      rect:
+        serializedVersion: 2
+        x: 470
+        y: 0
+        width: 235
+        height: 251
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b0c99d5b73c47b300800000000000000
+      internalID: 267766505009683467
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
