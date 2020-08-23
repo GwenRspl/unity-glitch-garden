@@ -7,7 +7,7 @@ public class AttackerSpawner : MonoBehaviour {
     bool spawn = true;
     [SerializeField] float minSpawnDelay = 1f;
     [SerializeField] float maxSpawnDelay = 5f;
-    [SerializeField] Attacker attackerPrefab;
+    [SerializeField] Attacker[] attackerPrefabArray;
 
     IEnumerator Start() {
         while (this.spawn) {
@@ -18,11 +18,12 @@ public class AttackerSpawner : MonoBehaviour {
     }
 
     private void SpawnAttacker() {
-        Attacker newAttacker = Instantiate(this.attackerPrefab, this.transform.position, this.transform.rotation) as Attacker;
-        newAttacker.transform.parent = this.transform;
+        Attacker attacker = this.attackerPrefabArray[Random.Range(0, this.attackerPrefabArray.Length)];
+        Spawn(attacker);
     }
 
-    void Update() {
-
+    private void Spawn(Attacker attacker) {
+        Attacker newAttacker = Instantiate(attacker, this.transform.position, this.transform.rotation) as Attacker;
+        newAttacker.transform.parent = this.transform;
     }
 }
