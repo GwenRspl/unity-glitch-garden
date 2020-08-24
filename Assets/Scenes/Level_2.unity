@@ -247,11 +247,6 @@ Transform:
   m_CorrespondingSourceObject: {fileID: 6456670657809478433, guid: 14ae6753890df9b44a0bef9b8963e43e, type: 3}
   m_PrefabInstance: {fileID: 210604207}
   m_PrefabAsset: {fileID: 0}
---- !u!1 &586197669 stripped
-GameObject:
-  m_CorrespondingSourceObject: {fileID: 1883835653175578979, guid: e59f1773ad8a42c428943a9de36eb5aa, type: 3}
-  m_PrefabInstance: {fileID: 3448989073941921343}
-  m_PrefabAsset: {fileID: 0}
 --- !u!1001 &679208035
 PrefabInstance:
   m_ObjectHideFlags: 0
@@ -704,10 +699,6 @@ PrefabInstance:
       propertyPath: m_LocalEulerAnglesHint.z
       value: 0
       objectReference: {fileID: 0}
-    - target: {fileID: 3893464398460391344, guid: 721ac482a596e1e4aa6351d49a3d1cba, type: 3}
-      propertyPath: winLabel
-      value: 
-      objectReference: {fileID: 586197669}
     - target: {fileID: 4360134488811200773, guid: 721ac482a596e1e4aa6351d49a3d1cba, type: 3}
       propertyPath: m_Name
       value: LevelController
@@ -818,6 +809,18 @@ PrefabInstance:
   m_Modification:
     m_TransformParent: {fileID: 0}
     m_Modifications:
+    - target: {fileID: 1341384291429397574, guid: 96b6ac702db24d540bcfbf505769d2b7, type: 3}
+      propertyPath: m_Offset.x
+      value: 0.009950042
+      objectReference: {fileID: 0}
+    - target: {fileID: 1341384291429397574, guid: 96b6ac702db24d540bcfbf505769d2b7, type: 3}
+      propertyPath: m_Offset.y
+      value: 0.02557668
+      objectReference: {fileID: 0}
+    - target: {fileID: 1341384291429397574, guid: 96b6ac702db24d540bcfbf505769d2b7, type: 3}
+      propertyPath: m_Size.y
+      value: 0.8351155
+      objectReference: {fileID: 0}
     - target: {fileID: 5011266397068301820, guid: 96b6ac702db24d540bcfbf505769d2b7, type: 3}
       propertyPath: m_Name
       value: Buttons
