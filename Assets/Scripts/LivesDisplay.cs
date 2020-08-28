@@ -22,7 +22,7 @@ public class LivesDisplay : MonoBehaviour {
         this.lives -= this.damage;
         UpdateDisplay();
         if (this.lives <= 0) {
-            FindObjectOfType<LevelLoader>().LoadYouLose();
+            FindObjectOfType<LevelController>().HandleLoseCondition();
         }
     }
 }

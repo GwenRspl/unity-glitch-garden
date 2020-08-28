@@ -22,7 +22,13 @@ public class LevelLoader : MonoBehaviour {
     }
 
     public void LoadStartScreen() {
+        Time.timeScale = 1;
         SceneManager.LoadScene(1);
+    }
+
+    public void RestartScreen() {
+        Time.timeScale = 1;
+        SceneManager.LoadScene(this.currentSceneIndex);
     }
 
     public void LoadNextScene() {
@@ -31,5 +37,9 @@ public class LevelLoader : MonoBehaviour {
 
     public void LoadYouLose() {
         SceneManager.LoadScene("GameOverScreen");
+    }
+
+    public void QuitGame() {
+        Application.Quit();
     }
 }

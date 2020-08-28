@@ -245,7 +245,87 @@ MonoBehaviour:
   m_TargetGraphic: {fileID: 280430392}
   m_OnClick:
     m_PersistentCalls:
-      m_Calls: []
+      m_Calls:
+      - m_Target: {fileID: 472144296}
+        m_TargetAssemblyTypeName: LevelLoader, Assembly-CSharp
+        m_MethodName: LoadNextScene
+        m_Mode: 1
+        m_Arguments:
+          m_ObjectArgument: {fileID: 0}
+          m_ObjectArgumentAssemblyTypeName: UnityEngine.Object, UnityEngine
+          m_IntArgument: 0
+          m_FloatArgument: 0
+          m_StringArgument: 
+          m_BoolArgument: 0
+        m_CallState: 2
+--- !u!1001 &472144295
+PrefabInstance:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Modification:
+    m_TransformParent: {fileID: 0}
+    m_Modifications:
+    - target: {fileID: 3696734876001452774, guid: 721ac482a596e1e4aa6351d49a3d1cba, type: 3}
+      propertyPath: m_LocalPosition.x
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 3696734876001452774, guid: 721ac482a596e1e4aa6351d49a3d1cba, type: 3}
+      propertyPath: m_LocalPosition.y
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 3696734876001452774, guid: 721ac482a596e1e4aa6351d49a3d1cba, type: 3}
+      propertyPath: m_LocalPosition.z
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 3696734876001452774, guid: 721ac482a596e1e4aa6351d49a3d1cba, type: 3}
+      propertyPath: m_LocalRotation.x
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 3696734876001452774, guid: 721ac482a596e1e4aa6351d49a3d1cba, type: 3}
+      propertyPath: m_LocalRotation.y
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 3696734876001452774, guid: 721ac482a596e1e4aa6351d49a3d1cba, type: 3}
+      propertyPath: m_LocalRotation.z
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 3696734876001452774, guid: 721ac482a596e1e4aa6351d49a3d1cba, type: 3}
+      propertyPath: m_LocalRotation.w
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 3696734876001452774, guid: 721ac482a596e1e4aa6351d49a3d1cba, type: 3}
+      propertyPath: m_RootOrder
+      value: 3
+      objectReference: {fileID: 0}
+    - target: {fileID: 3696734876001452774, guid: 721ac482a596e1e4aa6351d49a3d1cba, type: 3}
+      propertyPath: m_LocalEulerAnglesHint.x
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 3696734876001452774, guid: 721ac482a596e1e4aa6351d49a3d1cba, type: 3}
+      propertyPath: m_LocalEulerAnglesHint.y
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 3696734876001452774, guid: 721ac482a596e1e4aa6351d49a3d1cba, type: 3}
+      propertyPath: m_LocalEulerAnglesHint.z
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 4360134488811200773, guid: 721ac482a596e1e4aa6351d49a3d1cba, type: 3}
+      propertyPath: m_Name
+      value: LevelController
+      objectReference: {fileID: 0}
+    m_RemovedComponents: []
+  m_SourcePrefab: {fileID: 100100000, guid: 721ac482a596e1e4aa6351d49a3d1cba, type: 3}
+--- !u!114 &472144296 stripped
+MonoBehaviour:
+  m_CorrespondingSourceObject: {fileID: 3004553757419195897, guid: 721ac482a596e1e4aa6351d49a3d1cba, type: 3}
+  m_PrefabInstance: {fileID: 472144295}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 3d50aedc91c3ef24ba5c5a9669661276, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
 --- !u!1 &498240974
 GameObject:
   m_ObjectHideFlags: 0
@@ -368,7 +448,19 @@ MonoBehaviour:
   m_TargetGraphic: {fileID: 498240976}
   m_OnClick:
     m_PersistentCalls:
-      m_Calls: []
+      m_Calls:
+      - m_Target: {fileID: 472144296}
+        m_TargetAssemblyTypeName: LevelLoader, Assembly-CSharp
+        m_MethodName: QuitGame
+        m_Mode: 1
+        m_Arguments:
+          m_ObjectArgument: {fileID: 0}
+          m_ObjectArgumentAssemblyTypeName: UnityEngine.Object, UnityEngine
+          m_IntArgument: 0
+          m_FloatArgument: 0
+          m_StringArgument: 
+          m_BoolArgument: 0
+        m_CallState: 2
 --- !u!1 &1287357549
 GameObject:
   m_ObjectHideFlags: 0

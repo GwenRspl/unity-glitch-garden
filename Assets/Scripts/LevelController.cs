@@ -6,12 +6,15 @@ using UnityEngine;
 public class LevelController : MonoBehaviour {
 
     [SerializeField] GameObject winLabel;
+    [SerializeField] GameObject loseLabel;
     [SerializeField] float waitToLoad = 4f;
     int numberOfAttackers = 0;
     bool isLevelTimerFinished = false;
+    bool lostLevel = false;
 
     private void Start() {
         this.winLabel.SetActive(false);
+        this.loseLabel.SetActive(false);
     }
 
     public void AttackerSpawned() {
@@ -19,10 +22,8 @@ public class LevelController : MonoBehaviour {
     }
 
     public void AttackerKilled() {
-        Debug.Log("Allo1");
         this.numberOfAttackers--;
-        if (this.numberOfAttackers <= 0 && this.isLevelTimerFinished) {
-            Debug.Log("Allo");
+        if (this.numberOfAttackers <= 0 && this.isLevelTimerFinished && this.lostLevel == false) {
             StartCoroutine(HandleWinCondition());
         }
     }
@@ -32,6 +33,12 @@ public class LevelController : MonoBehaviour {
         GetComponent<AudioSource>().Play();
         yield return new WaitForSeconds(this.waitToLoad);
         FindObjectOfType<LevelLoader>().LoadNextScene();
+    }
+
+    public void HandleLoseCondition() {
+        this.lostLevel = true;
+        this.loseLabel.SetActive(true);
+        Time.timeScale = 0;
     }
 
     public void LevelTimerFinished() {
